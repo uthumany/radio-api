@@ -2,6 +2,7 @@ import express from "express";
 import { createServer } from "http";
 import path from "path";
 import { fileURLToPath } from "url";
+import fs from "fs/promises";
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -18,7 +19,20 @@ async function startServer() {
 
   app.use(express.static(staticPath));
 
-  // Handle client-side routing - serve index.html for all routes
+  // New API endpoint to serve radio data
+  app.get("/radio.json", async (_req, res) => {
+    try {
+      const dataPath = path.join(__dirname, "radio_data.json");
+      const data = await fs.readFile(dataPath, "utf-8");
+      res.setHeader("Content-Type", "application/json");
+      res.send(data);
+    } catch (error) {
+      console.error("Error reading radio data:", error);
+      res.status(500).json({ error: "Failed to load radio data" });
+    }
+  });
+
+  // Handle client-side routing - serve index.html for all other routes
   app.get("*", (_req, res) => {
     res.sendFile(path.join(staticPath, "index.html"));
   });
