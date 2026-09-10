@@ -212,7 +212,7 @@
     {
       "id": 5,
       "slug": "quran-radio-ibrahim-al-akhdar",
-      "name": "Quran Radio — Ibrahim Al-Akhdar",
+      "name": "FM- Ibrahim Al-Akhdar",
       "nameAr": "إذاعة إبراهيم الأخضر",
       "description": "Listen to serene Quran recitation by Ibrahim Al-Akhdar in high-quality streaming audio for daily reflection and worship.",
       "country": "Saudi Arabia",
@@ -263,7 +263,7 @@
     {
       "id": 6,
       "slug": "quran-radio-abu-bakr-al-shatri",
-      "name": "Quran Radio — Abu Bakr Al-Shatri",
+      "name": "FM- Abu Bakr Al-Shatri",
       "nameAr": "إذاعة شيخ أبو بكر الشاطري",
       "description": "Stream beautiful Quran recitation by Sheikh Abu Bakr Al-Shatri with a calm, heartfelt tone ideal for prayer and listening.",
       "country": "Saudi Arabia",
@@ -314,7 +314,7 @@
     {
       "id": 7,
       "slug": "quran-radio-ahmad-al-ajmi",
-      "name": "Quran Radio — Ahmad Al-Ajmi",
+      "name": "FM- Ahmad Al-Ajmi",
       "nameAr": "إذاعة أحمد العجمي",
       "description": "Play Quran recitation by Ahmad Al-Ajmi, a widely loved style for daily listening, memorization, and spiritual focus.",
       "country": "Saudi Arabia",
@@ -365,7 +365,7 @@
     {
       "id": 8,
       "slug": "quran-radio-ahmad-al-hawashi",
-      "name": "Quran Radio — Ahmad Al-Hawashi",
+      "name": "FM- Ahmad Al-Hawashi",
       "nameAr": "إذاعة أحمد الحواشي",
       "description": "Enjoy Quran recitation by Ahmad Al-Hawashi in clear streaming quality, perfect for relaxation, worship, and contemplation.",
       "country": "Kuwait",
@@ -416,7 +416,7 @@
     {
       "id": 9,
       "slug": "quran-radio-ahmad-saber",
-      "name": "Quran Radio — Ahmad Saber",
+      "name": "FM- Ahmad Saber",
       "nameAr": "إذاعة أحمد صابر",
       "description": "Stream Quran recitation by Ahmad Saber with a traditional, soothing delivery suitable for continuous listening and devotion.",
       "country": "Egypt",
@@ -467,7 +467,7 @@
     {
       "id": 10,
       "slug": "quran-radio-ahmad-nuaina",
-      "name": "Quran Radio — Ahmad Nuaina",
+      "name": "FM- Ahmad Nuaina",
       "nameAr": "إذاعة أحمد نعينع",
       "description": "Listen to renowned Egyptian Quran recitation by Ahmad Nuaina with moving maqamat and a timeless, reverent style.",
       "country": "Egypt",
@@ -518,7 +518,7 @@
     {
       "id": 11,
       "slug": "quran-radio-akram-al-alaqmi",
-      "name": "Quran Radio — Akram Al-Alaqmi",
+      "name": "FM- Akram Al-Alaqmi",
       "nameAr": "إذاعة أكرم العلاقمي",
       "description": "Play Quran recitation by Akram Al-Alaqmi in smooth streaming audio for remembrance, calm, and daily worship routines.",
       "country": "Yemen",
@@ -569,7 +569,7 @@
     {
       "id": 12,
       "slug": "quran-radio-idris-abkar",
-      "name": "Quran Radio — Idris Abkar",
+      "name": "FM- Idris Abkar",
       "nameAr": "إذاعة إدريس أبكر",
       "description": "Stream heartfelt Quran recitation by Idris Abkar with a gentle cadence suited for focus, reflection, and tranquility.",
       "country": "Saudi Arabia",
@@ -620,7 +620,7 @@
     {
       "id": 13,
       "slug": "quran-radio-al-zain-muhammad-ahmad",
-      "name": "Quran Radio — Al-Zain Muhammad Ahmad",
+      "name": "FM- Al-Zain Muhammad Ahmad",
       "nameAr": "إذاعة الزين محمد أحمد",
       "description": "Listen to Sudanese-style Quran recitation by Al-Zain Muhammad Ahmad with a warm tone and clear articulation.",
       "country": "Sudan",
@@ -671,7 +671,7 @@
     {
       "id": 14,
       "slug": "quran-radio-al-qari-y",
-      "name": "Quran Radio — Al-Qari Yاسين",
+      "name": "FM- Al-Qari Yاسين",
       "nameAr": "إذاعة القارئ ياسين",
       "description": "Stream Quran recitation by Al-Qari Yاسين in continuous audio for daily listening, spiritual calm, and devotion.",
       "country": "International",
@@ -722,7 +722,7 @@
     {
       "id": 15,
       "slug": "quran-radio-aloyoon-al-koshi",
-      "name": "Quran Radio — Aloyoon Al-Koshi",
+      "name": "FM- Aloyoon Al-Koshi",
       "nameAr": "إذاعة العيون الكوشي",
       "description": "Enjoy Quran recitation by Aloyoon Al-Koshi with a distinctive, heartfelt style ideal for quiet moments and prayer.",
       "country": "Libya",
@@ -773,7 +773,7 @@
     {
       "id": 16,
       "slug": "quran-radio-tawfeeq-al-sayegh",
-      "name": "Quran Radio — Tawfeeq Al-Sayegh",
+      "name": "FM- Tawfeeq Al-Sayegh",
       "nameAr": "إذاعة توفيق الصايغ",
       "description": "Stream Quran recitation by Tawfeeq Al-Sayegh in clean audio, perfect for worship, contemplation, and daily routines.",
       "country": "Saudi Arabia",
@@ -824,7 +824,7 @@
     {
       "id": 17,
       "slug": "quran-radio-jamal-shaker-abdullah",
-      "name": "Quran Radio — Jamal Shaker Abdullah",
+      "name": "FM- Jamal Shaker Abdullah",
       "nameAr": "إذاعة جمال شاكر عبدالله",
       "description": "Listen to Quran recitation by Jamal Shaker Abdullah with a steady rhythm and clear tajwid for easy listening.",
       "country": "Saudi Arabia",
@@ -875,7 +875,7 @@
     {
       "id": 18,
       "slug": "quran-radio-khaled-al-qahtani",
-      "name": "Quran Radio — Khaled Al-Qahtani",
+      "name": "FM- Khaled Al-Qahtani",
       "nameAr": "إذاعة خالد القحطاني",
       "description": "Stream Quran recitation by Khaled Al-Qahtani with a peaceful delivery, ideal for reflection, study, and worship.",
       "country": "Saudi Arabia",
@@ -926,7 +926,7 @@
     {
       "id": 19,
       "slug": "quran-radio-khalid-abdulkafi",
-      "name": "Quran Radio — Khalid AbdulKafi",
+      "name": "FM- Khalid AbdulKafi",
       "nameAr": "إذاعة خالد عبدالكافي",
       "description": "Play Quran recitation by Khalid AbdulKafi in continuous streaming audio for spiritual focus and peaceful listening.",
       "country": "Saudi Arabia",
@@ -977,7 +977,7 @@
     {
       "id": 20,
       "slug": "quran-radio-khalifa-al-tunaiji",
-      "name": "Quran Radio — Khalifa Al-Tunaiji",
+      "name": "FM- Khalifa Al-Tunaiji",
       "nameAr": "إذاعة خليفة الطنيجي",
       "description": "Listen to Quran recitation by Khalifa Al-Tunaiji with a soft, measured tone suitable for daily worship and calm.",
       "country": "United Arab Emirates",
@@ -1028,7 +1028,7 @@
     {
       "id": 21,
       "slug": "quran-radio-saad-al-ghamdi",
-      "name": "Quran Radio — Saad Al-Ghamdi",
+      "name": "FM- Saad Al-Ghamdi",
       "nameAr": "إذاعة سعد الغامدي",
       "description": "Stream Quran recitation by Saad Al-Ghamdi with a clear, uplifting style great for memorization and daily listening.",
       "country": "Saudi Arabia",
@@ -1079,7 +1079,7 @@
     {
       "id": 22,
       "slug": "quran-radio-saud-al-shuraim",
-      "name": "Quran Radio — Saud Al-Shuraim",
+      "name": "FM- Saud Al-Shuraim",
       "nameAr": "إذاعة سعود الشريم",
       "description": "Listen to powerful Quran recitation by Sheikh Saud Al-Shuraim, recorded in a style loved in prayers and gatherings.",
       "country": "Saudi Arabia",
@@ -1130,7 +1130,7 @@
     {
       "id": 23,
       "slug": "quran-radio-sahl-yassin",
-      "name": "Quran Radio — Sahl Yassin",
+      "name": "FM- Sahl Yassin",
       "nameAr": "إذاعة سهل ياسين",
       "description": "Stream Quran recitation by Sahl Yassin in smooth audio for peaceful listening, devotion, and daily remembrance.",
       "country": "Iraq",
@@ -1181,7 +1181,7 @@
     {
       "id": 24,
       "slug": "quran-radio-zaki-daghistani",
-      "name": "Quran Radio — Zaki Daghistani",
+      "name": "FM- Zaki Daghistani",
       "nameAr": "إذاعة زكي داغستاني",
       "description": "Enjoy Quran recitation by Zaki Daghistani with an emotional, traditional sound ideal for deep reflection and worship.",
       "country": "Syria",
@@ -1232,7 +1232,7 @@
     {
       "id": 25,
       "slug": "quran-radio-sayed-ramadan",
-      "name": "Quran Radio — Sayed Ramadan",
+      "name": "FM- Sayed Ramadan",
       "nameAr": "إذاعة سيد رمضان",
       "description": "Listen to classic Egyptian Quran recitation by Sayed Ramadan with rich melody and clear tajwid in streaming audio.",
       "country": "Egypt",
@@ -1283,7 +1283,7 @@
     {
       "id": 26,
       "slug": "quran-radio-shirzad-abdulrahman-taher",
-      "name": "Quran Radio — Shirzad Abdulrahman Taher",
+      "name": "FM- Shirzad Abdulrahman Taher",
       "nameAr": "إذاعة شيرزاد عبدالرحمن طاهر",
       "description": "Stream Quran recitation by Shirzad Abdulrahman Taher with a gentle pace, ideal for listening, calm, and worship.",
       "country": "Iraq",
@@ -1334,7 +1334,7 @@
     {
       "id": 27,
       "slug": "quran-radio-saber-abdulhakm",
-      "name": "Quran Radio — Saber Abdulhakm",
+      "name": "FM- Saber Abdulhakm",
       "nameAr": "إذاعة صابر عبدالحكم",
       "description": "Play Quran recitation by Saber Abdulhakm in continuous audio, suitable for daily devotion and spiritual comfort.",
       "country": "Egypt",
@@ -1385,7 +1385,7 @@
     {
       "id": 28,
       "slug": "quran-radio-salah-al-budair",
-      "name": "Quran Radio — Salah Al-Budair",
+      "name": "FM- Salah Al-Budair",
       "nameAr": "إذاعة صلاح البدير",
       "description": "Listen to Quran recitation by Salah Al-Budair with a strong, prayer-like delivery in high-quality online streaming.",
       "country": "Saudi Arabia",
@@ -1436,7 +1436,7 @@
     {
       "id": 29,
       "slug": "quran-radio-salah-al-hashim",
-      "name": "Quran Radio — Salah Al-Hashim",
+      "name": "FM- Salah Al-Hashim",
       "nameAr": "إذاعة صلاح الهاشم",
       "description": "Stream Quran recitation by Salah Al-Hashim with clear tajwid and a calm voice for focused, daily listening.",
       "country": "Kuwait",
@@ -1487,7 +1487,7 @@
     {
       "id": 30,
       "slug": "quran-radio-salah-bukhatir",
-      "name": "Quran Radio — Salah Bukhatir",
+      "name": "FM- Salah Bukhatir",
       "nameAr": "إذاعة صلاح بو خاطر",
       "description": "Enjoy Quran recitation by Salah Bukhatir, a popular warm style ideal for relaxation, worship, and remembrance.",
       "country": "United Arab Emirates",
@@ -1538,7 +1538,7 @@
     {
       "id": 31,
       "slug": "quran-radio-adel-rayan",
-      "name": "Quran Radio — Adel Rayan",
+      "name": "FM- Adel Rayan",
       "nameAr": "إذاعة عادل ريان",
       "description": "Stream Quran recitation by Adel Rayan with a smooth cadence and clear pronunciation for daily spiritual listening.",
       "country": "Qatar",
@@ -1589,7 +1589,7 @@
     {
       "id": 32,
       "slug": "quran-radio-abdulbari-al-thubayti",
-      "name": "Quran Radio — Abdulbari Al-Thubayti",
+      "name": "FM- Abdulbari Al-Thubayti",
       "nameAr": "إذاعة عبدالبارئ الثبيتي",
       "description": "Listen to Quran recitation by Abdulbari Al-Thubayti with a measured, prayerful tone in continuous streaming audio.",
       "country": "Saudi Arabia",
@@ -1640,7 +1640,7 @@
     {
       "id": 33,
       "slug": "quran-radio-abdulbari-muhammad",
-      "name": "Quran Radio — Abdulbari Muhammad",
+      "name": "FM- Abdulbari Muhammad",
       "nameAr": "إذاعة عبدالبارئ محمد",
       "description": "Stream Quran recitation by Abdulbari Muhammad with clear tajwid, ideal for studying, worship, and daily remembrance.",
       "country": "Saudi Arabia",
@@ -1691,7 +1691,7 @@
     {
       "id": 34,
       "slug": "quran-radio-abdulbasit-abdulsamad-mujawwad",
-      "name": "Quran Radio — AbdulBasit AbdulSamad (Mujawwad)",
+      "name": "FM- AbdulBasit AbdulSamad (Mujawwad)",
       "nameAr": "إذاعة عبدالباسط عبدالصمد",
       "description": "Listen to legendary Mujawwad Quran recitation by AbdulBasit AbdulSamad with iconic melody and powerful presence.",
       "country": "Egypt",
@@ -1743,7 +1743,7 @@
     {
       "id": 35,
       "slug": "quran-radio-abdulbasit-abdulsamad-warsh",
-      "name": "Quran Radio — AbdulBasit AbdulSamad (Warsh)",
+      "name": "FM- AbdulBasit AbdulSamad (Warsh)",
       "nameAr": "إذاعة عبدالباسط عبدالصمد",
       "description": "Stream AbdulBasit AbdulSamad reciting in Warsh narration, a treasured style for learners and devoted listeners.",
       "country": "Egypt",
@@ -1796,7 +1796,7 @@
     {
       "id": 36,
       "slug": "quran-radio-abdulbasit-abdulsamad",
-      "name": "Quran Radio — AbdulBasit AbdulSamad",
+      "name": "FM- AbdulBasit AbdulSamad",
       "nameAr": "إذاعة عبدالباسط عبدالصمد",
       "description": "Enjoy timeless Quran recitation by AbdulBasit AbdulSamad in continuous streaming audio for worship and reflection.",
       "country": "Egypt",
@@ -1847,7 +1847,7 @@
     {
       "id": 37,
       "slug": "quran-radio-abdulrahman-al-sudais",
-      "name": "Quran Radio — Abdulrahman Al-Sudais",
+      "name": "FM- Abdulrahman Al-Sudais",
       "nameAr": "إذاعة عبدالرحمن السديس",
       "description": "Stream Quran recitation by Sheikh Abdulrahman Al-Sudais with a powerful masjid-style delivery in clear audio.",
       "country": "Saudi Arabia",
@@ -1898,7 +1898,7 @@
     {
       "id": 38,
       "slug": "quran-radio-abdulaziz-al-ahmad",
-      "name": "Quran Radio — Abdulaziz Al-Ahmad",
+      "name": "FM- Abdulaziz Al-Ahmad",
       "nameAr": "إذاعة عبدالعزيز الأحمد",
       "description": "Listen to Quran recitation by Abdulaziz Al-Ahmad in continuous streaming audio for daily worship and calm listening.",
       "country": "Kuwait",
@@ -1949,7 +1949,7 @@
     {
       "id": 39,
       "slug": "quran-radio-abdullah-al-mattrod",
-      "name": "Quran Radio — Abdullah Al-Mattrod",
+      "name": "FM- Abdullah Al-Mattrod",
       "nameAr": "إذاعة عبدالله المطرود",
       "description": "Stream Quran recitation by Abdullah Al-Mattrod with a soothing voice and clear tajwid for everyday listening.",
       "country": "Saudi Arabia",
@@ -2000,7 +2000,7 @@
     {
       "id": 40,
       "slug": "quran-radio-abdullah-basfar",
-      "name": "Quran Radio — Abdullah Basfar",
+      "name": "FM- Abdullah Basfar",
       "nameAr": "إذاعة عبدالله بصفر",
       "description": "Listen to Quran recitation by Abdullah Basfar, a gentle and clear style ideal for reflection, prayer, and calm.",
       "country": "Saudi Arabia",
@@ -2051,7 +2051,7 @@
     {
       "id": 41,
       "slug": "quran-radio-abdullah-khayyat",
-      "name": "Quran Radio — Abdullah Khayyat",
+      "name": "FM- Abdullah Khayyat",
       "nameAr": "إذاعة عبدالله خياط",
       "description": "Stream Quran recitation by Sheikh Abdullah Khayyat with a classic masjid tone and clear recitation quality.",
       "country": "Saudi Arabia",
@@ -2102,7 +2102,7 @@
     {
       "id": 42,
       "slug": "quran-radio-abdullah-al-juhani",
-      "name": "Quran Radio — Abdullah Al-Juhani",
+      "name": "FM- Abdullah Al-Juhani",
       "nameAr": "إذاعة عبدالله عواد الجهني",
       "description": "Listen to Quran recitation by Abdullah Al-Juhani with a calm, prayer-like delivery in continuous streaming audio.",
       "country": "Saudi Arabia",
@@ -2153,7 +2153,7 @@
     {
       "id": 43,
       "slug": "quran-radio-abdulrasheed-soufi-khalaf",
-      "name": "Quran Radio — Abdulrasheed Soufi (Khalaf)",
+      "name": "FM- Abdulrasheed Soufi (Khalaf)",
       "nameAr": "إذاعة عبدالرشيد صوفي",
       "description": "Stream Quran recitation by Abdulrasheed Soufi in the Khalaf reading, clear and steady for focused listening.",
       "country": "Somalia",
@@ -2206,7 +2206,7 @@
     {
       "id": 44,
       "slug": "quran-radio-abdulrasheed-soufi-as-susi",
-      "name": "Quran Radio — Abdulrasheed Soufi (As-Susi)",
+      "name": "FM- Abdulrasheed Soufi (As-Susi)",
       "nameAr": "إذاعة عبدالرشيد صوفي",
       "description": "Listen to Abdulrasheed Soufi reciting in As-Susi narration, with crisp tajwid and a tranquil pace.",
       "country": "Somalia",
@@ -2259,7 +2259,7 @@
     {
       "id": 45,
       "slug": "quran-radio-abdulmohsin-al-harthy",
-      "name": "Quran Radio — Abdulmohsin Al-Harthy",
+      "name": "FM- Abdulmohsin Al-Harthy",
       "nameAr": "إذاعة عبدالمحسن الحارثي",
       "description": "Stream Quran recitation by Abdulmohsin Al-Harthy in clear audio for daily listening, worship, and reflection.",
       "country": "Saudi Arabia",
@@ -2310,7 +2310,7 @@
     {
       "id": 46,
       "slug": "quran-radio-abdulmohsen-al-qasim",
-      "name": "Quran Radio — Abdulmohsen Al-Qasim",
+      "name": "FM- Abdulmohsen Al-Qasim",
       "nameAr": "إذاعة عبدالمحسن القاسم",
       "description": "Listen to Quran recitation by Abdulmohsen Al-Qasim with a masjid-style cadence and strong, clear delivery.",
       "country": "Saudi Arabia",
@@ -2361,7 +2361,7 @@
     {
       "id": 47,
       "slug": "quran-radio-abdulmohsin-al-obaikan",
-      "name": "Quran Radio — Abdulmohsin Al-Obaikan",
+      "name": "FM- Abdulmohsin Al-Obaikan",
       "nameAr": "إذاعة عبدالمحسن العبيكان",
       "description": "Stream Quran recitation by Abdulmohsin Al-Obaikan in continuous audio, ideal for calm listening and devotion.",
       "country": "Saudi Arabia",
@@ -2412,7 +2412,7 @@
     {
       "id": 48,
       "slug": "quran-radio-abdulhadi-kanakeri",
-      "name": "Quran Radio — Abdulhadi Kanakeri",
+      "name": "FM- Abdulhadi Kanakeri",
       "nameAr": "إذاعة عبدالهادي أحمد كناكري",
       "description": "Listen to Quran recitation by Abdulhadi Kanakeri with clear tajwid and a gentle, steady pace in streaming audio.",
       "country": "Saudi Arabia",
@@ -2463,7 +2463,7 @@
     {
       "id": 49,
       "slug": "quran-radio-abdulwadood-haneef",
-      "name": "Quran Radio — Abdulwadood Haneef",
+      "name": "FM- Abdulwadood Haneef",
       "nameAr": "إذاعة عبدالودود حنيف",
       "description": "Stream Quran recitation by Abdulwadood Haneef with a calm tone and clear articulation for daily listening.",
       "country": "Saudi Arabia",
@@ -2514,7 +2514,7 @@
     {
       "id": 50,
       "slug": "quran-radio-ali-al-hudhaifi",
-      "name": "Quran Radio — Ali Al-Hudhaifi",
+      "name": "FM- Ali Al-Hudhaifi",
       "nameAr": "إذاعة علي بن عبدالرحمن الحذيفي",
       "description": "Listen to Quran recitation by Ali Al-Hudhaifi with a well-known masjid style, clear tajwid, and steady pacing.",
       "country": "Saudi Arabia",
@@ -2565,7 +2565,7 @@
     {
       "id": 51,
       "slug": "quran-radio-ali-al-hudhaifi-qalun",
-      "name": "Quran Radio — Ali Al-Hudhaifi (Qalun)",
+      "name": "FM- Ali Al-Hudhaifi (Qalun)",
       "nameAr": "إذاعة علي الحذيفي",
       "description": "Stream Ali Al-Hudhaifi reciting in Qalun narration, ideal for learners of qira'at and devoted listeners.",
       "country": "Saudi Arabia",
@@ -2618,7 +2618,7 @@
     {
       "id": 52,
       "slug": "quran-radio-ali-jaber",
-      "name": "Quran Radio — Ali Jaber",
+      "name": "FM- Ali Jaber",
       "nameAr": " إذاعة علي جابر",
       "description": "Listen to classic Quran recitation by Ali Jaber with a deeply moving masjid tone in continuous streaming audio.",
       "country": "Saudi Arabia",
@@ -2669,7 +2669,7 @@
     {
       "id": 53,
       "slug": "quran-radio-ali-hajjaj-al-souasi",
-      "name": "Quran Radio — Ali Hajjaj Al-Souasi",
+      "name": "FM- Ali Hajjaj Al-Souasi",
       "nameAr": " إذاعة علي حجاج السويسي",
       "description": "Stream Quran recitation by Ali Hajjaj Al-Souasi with clear tajwid and a traditional North African recitation feel.",
       "country": "Tunisia",
@@ -2720,7 +2720,7 @@
     {
       "id": 54,
       "slug": "quran-radio-emad-zuhair-hafez",
-      "name": "Quran Radio — Emad Zuhair Hafez",
+      "name": "FM- Emad Zuhair Hafez",
       "nameAr": " إذاعة عماد زهير حافظ",
       "description": "Listen to Quran recitation by Emad Zuhair Hafez in smooth streaming audio for worship, calm, and reflection.",
       "country": "Egypt",
@@ -2771,7 +2771,7 @@
     {
       "id": 55,
       "slug": "quran-radio-omar-al-qazabri",
-      "name": "Quran Radio — Omar Al-Qazabri",
+      "name": "FM- Omar Al-Qazabri",
       "nameAr": " إذاعة عمر القزابري",
       "description": "Stream Quran recitation by Omar Al-Qazabri with a calm Moroccan style, ideal for focus, study, and prayer.",
       "country": "Morocco",
@@ -2822,7 +2822,7 @@
     {
       "id": 56,
       "slug": "quran-radio-fares-abbad",
-      "name": "Quran Radio — Fares Abbad",
+      "name": "FM- Fares Abbad",
       "nameAr": " إذاعة فارس عباد",
       "description": "Listen to Quran recitation by Fares Abbad with a deeply emotional tone, perfect for night listening and reflection.",
       "country": "Yemen",
@@ -2873,7 +2873,7 @@
     {
       "id": 57,
       "slug": "quran-radio-nasser-al-qatami",
-      "name": "Quran Radio — Nasser Al-Qatami",
+      "name": "FM- Nasser Al-Qatami",
       "nameAr": " إذاعة ناصر القطامي",
       "description": "Stream Quran recitation by Nasser Al-Qatami with a soft, beautiful delivery ideal for daily listening and worship.",
       "country": "Saudi Arabia",
@@ -2924,7 +2924,7 @@
     {
       "id": 58,
       "slug": "quran-radio-nabil-al-rifai",
-      "name": "Quran Radio — Nabil Al-Rifai",
+      "name": "FM- Nabil Al-Rifai",
       "nameAr": " إذاعة نبيل الرفاعي",
       "description": "Listen to moving Quran recitation by Nabil Al-Rifai with a heartfelt tone in high-quality streaming audio.",
       "country": "Kuwait",
@@ -2975,7 +2975,7 @@
     {
       "id": 59,
       "slug": "quran-radio-neamah-al-hassan",
-      "name": "Quran Radio — Neamah Al-Hassan",
+      "name": "FM- Neamah Al-Hassan",
       "nameAr": " إذاعة نعمة الحسان",
       "description": "Stream Quran recitation by Neamah Al-Hassan with clear tajwid and a calm pace for daily spiritual listening.",
       "country": "Saudi Arabia",
@@ -3026,7 +3026,7 @@
     {
       "id": 60,
       "slug": "quran-radio-hani-al-rifai",
-      "name": "Quran Radio — Hani Al-Rifai",
+      "name": "FM- Hani Al-Rifai",
       "nameAr": " إذاعة هاني الرفاعي",
       "description": "Listen to Quran recitation by Hani Al-Rifai with a soothing, balanced delivery ideal for continuous listening.",
       "country": "Kuwait",
@@ -3077,7 +3077,7 @@
     {
       "id": 61,
       "slug": "quran-radio-waleed-al-naehi",
-      "name": "Quran Radio — Waleed Al-Naehi",
+      "name": "FM- Waleed Al-Naehi",
       "nameAr": " إذاعة وليد النائحي",
       "description": "Stream Quran recitation by Waleed Al-Naehi with a gentle tone and clear pronunciation for daily worship and calm.",
       "country": "United Arab Emirates",
@@ -3128,7 +3128,7 @@
     {
       "id": 62,
       "slug": "quran-radio-yasser-al-dosari",
-      "name": "Quran Radio — Yasser Al-Dosari",
+      "name": "FM- Yasser Al-Dosari",
       "nameAr": " إذاعة ياسر الدوسري",
       "description": "Listen to Quran recitation by Yasser Al-Dosari with a strong, emotional masjid delivery in high-quality streaming.",
       "country": "Saudi Arabia",
@@ -3179,7 +3179,7 @@
     {
       "id": 63,
       "slug": "quran-radio-yasser-al-qurashi",
-      "name": "Quran Radio — Yasser Al-Qurashi",
+      "name": "FM- Yasser Al-Qurashi",
       "nameAr": " إذاعة ياسر القرشي",
       "description": "Stream Quran recitation by Yasser Al-Qurashi with a calm and clear style, perfect for daily remembrance.",
       "country": "Saudi Arabia",
@@ -3230,7 +3230,7 @@
     {
       "id": 64,
       "slug": "quran-radio-yasser-al-mazrooei",
-      "name": "Quran Radio — Yasser Al-Mazrooei",
+      "name": "FM- Yasser Al-Mazrooei",
       "nameAr": " إذاعة ياسر المزروعي ",
       "description": "Listen to Quran recitation by Yasser Al-Mazrooei with a smooth, gentle pace ideal for calm, worship, and study.",
       "country": "United Arab Emirates",
@@ -3281,7 +3281,7 @@
     {
       "id": 65,
       "slug": "quran-radio-yahya-hawwa",
-      "name": "Quran Radio — Yahya Hawwa",
+      "name": "FM- Yahya Hawwa",
       "nameAr": " إذاعة يحيى حوا",
       "description": "Stream Quran recitation by Yahya Hawwa with clear tajwid and a comforting tone for daily listening and reflection.",
       "country": "Syria",
@@ -3332,7 +3332,7 @@
     {
       "id": 66,
       "slug": "quran-radio-yousef-al-shoaey",
-      "name": "Quran Radio — Yousef Al-Shoaey",
+      "name": "FM- Yousef Al-Shoaey",
       "nameAr": " إذاعة يوسف الشويعي",
       "description": "Listen to Quran recitation by Yousef Al-Shoaey in continuous streaming audio for peaceful worship and daily remembrance.",
       "country": "Kuwait",
@@ -3383,7 +3383,7 @@
     {
       "id": 67,
       "slug": "quran-radio-maher-al-muaiqly",
-      "name": "Quran Radio — Maher Al-Muaiqly",
+      "name": "FM- Maher Al-Muaiqly",
       "nameAr": " إذاعة ماهر المعيقلي",
       "description": "Stream Quran recitation by Maher Al-Muaiqly with a widely loved masjid tone, clear tajwid, and calm pacing.",
       "country": "Saudi Arabia",
@@ -3434,7 +3434,7 @@
     {
       "id": 68,
       "slug": "quran-radio-muhammad-al-tablawi",
-      "name": "Quran Radio — Muhammad Al-Tablawi",
+      "name": "FM- Muhammad Al-Tablawi",
       "nameAr": " إذاعة محمد الطبلاوي",
       "description": "Listen to classic Egyptian Quran recitation by Muhammad Al-Tablawi with rich melody and traditional maqamat.",
       "country": "Egypt",
@@ -3485,7 +3485,7 @@
     {
       "id": 69,
       "slug": "quran-radio-mohammed-al-luhaidan",
-      "name": "Quran Radio — Mohammed Al-Luhaidan",
+      "name": "FM- Mohammed Al-Luhaidan",
       "nameAr": " إذاعة محمد اللحيدان",
       "description": "Stream Quran recitation by Mohammed Al-Luhaidan with a deep, emotional voice ideal for night prayers and reflection.",
       "country": "Saudi Arabia",
@@ -3536,7 +3536,7 @@
     {
       "id": 70,
       "slug": "quran-radio-muhammad-ayyub",
-      "name": "Quran Radio — Muhammad Ayyub",
+      "name": "FM- Muhammad Ayyub",
       "nameAr": " إذاعة محمد أيوب",
       "description": "Listen to Quran recitation by Muhammad Ayyub with a clean, balanced tone and strong tajwid in streaming audio.",
       "country": "Saudi Arabia",
@@ -3587,7 +3587,7 @@
     {
       "id": 71,
       "slug": "quran-radio-mohammad-saleh-alim-shah",
-      "name": "Quran Radio — Mohammad Saleh Alim Shah",
+      "name": "FM- Mohammad Saleh Alim Shah",
       "nameAr": " إذاعة محمد صالح عالم شاه",
       "description": "Stream Quran recitation by Mohammad Saleh Alim Shah with clear pronunciation and a steady pace for daily listening.",
       "country": "Pakistan",
@@ -3638,7 +3638,7 @@
     {
       "id": 72,
       "slug": "quran-radio-muhammad-jibreel",
-      "name": "Quran Radio — Muhammad Jibreel",
+      "name": "FM- Muhammad Jibreel",
       "nameAr": " إذاعة محمد جبريل",
       "description": "Listen to Quran recitation by Muhammad Jibreel with an emotional, prayer-like delivery in high-quality streaming audio.",
       "country": "Egypt",
@@ -3689,7 +3689,7 @@
     {
       "id": 73,
       "slug": "quran-radio-muhammad-siddiq-al-minshawi",
-      "name": "Quran Radio — Muhammad Siddiq Al-Minshawi",
+      "name": "FM- Muhammad Siddiq Al-Minshawi",
       "nameAr": " إذاعة محمد صديق المنشاوي",
       "description": "Stream Quran recitation by Muhammad Siddiq Al-Minshawi with a humble, deeply moving Egyptian style loved worldwide.",
       "country": "Egypt",
@@ -3740,7 +3740,7 @@
     {
       "id": 74,
       "slug": "quran-radio-muhammad-siddiq-al-minshawi-mujawwad",
-      "name": "Quran Radio — Muhammad Siddiq Al-Minshawi (Mujawwad)",
+      "name": "FM- Muhammad Siddiq Al-Minshawi (Mujawwad)",
       "nameAr": " إذاعة محمد صديق المنشاوي",
       "description": "Listen to Mujawwad Quran recitation by Muhammad Siddiq Al-Minshawi with rich melody and profound spiritual depth.",
       "country": "Egypt",
@@ -3792,7 +3792,7 @@
     {
       "id": 75,
       "slug": "quran-radio-mohammad-abdulkareem",
-      "name": "Quran Radio — Mohammad AbdulKareem",
+      "name": "FM- Mohammad AbdulKareem",
       "nameAr": " إذاعة محمد عبدالكريم",
       "description": "Stream Quran recitation by Mohammad AbdulKareem with a calm voice and clear tajwid for daily worship and reflection.",
       "country": "Saudi Arabia",
@@ -3843,7 +3843,7 @@
     {
       "id": 76,
       "slug": "quran-radio-mohammad-al-abdullah-al-bazzi",
-      "name": "Quran Radio — Mohammad Al-Abdullah (Al-Bazzi)",
+      "name": "FM- Mohammad Al-Abdullah (Al-Bazzi)",
       "nameAr": " إذاعة محمد عبدالحكيم سعيد العبدالله",
       "description": "Listen to Mohammad Al-Abdullah reciting with Al-Bazzi narration, a beautiful qira'at stream for learners and listeners.",
       "country": "Kuwait",
@@ -3896,7 +3896,7 @@
     {
       "id": 77,
       "slug": "quran-radio-mohammad-al-abdullah-ad-duri",
-      "name": "Quran Radio — Mohammad Al-Abdullah (Ad-Duri)",
+      "name": "FM- Mohammad Al-Abdullah (Ad-Duri)",
       "nameAr": " إذاعة محمد عبدالحكيم سعيد العبدالله",
       "description": "Stream Mohammad Al-Abdullah in Ad-Duri narration with clear tajwid and a steady pace for qira'at listening.",
       "country": "Kuwait",
@@ -3949,7 +3949,7 @@
     {
       "id": 78,
       "slug": "quran-radio-mahmoud-khalil-al-hussary",
-      "name": "Quran Radio — Mahmoud Khalil Al-Hussary",
+      "name": "FM- Mahmoud Khalil Al-Hussary",
       "nameAr": " إذاعة محمود خليل الحصري",
       "description": "Listen to the precise, teacher-like Quran recitation of Mahmoud Khalil Al-Hussary, ideal for learning tajwid.",
       "country": "Egypt",
@@ -4000,7 +4000,7 @@
     {
       "id": 79,
       "slug": "quran-radio-mahmoud-khalil-al-hussary-mujawwad",
-      "name": "Quran Radio — Mahmoud Khalil Al-Hussary (Mujawwad)",
+      "name": "FM- Mahmoud Khalil Al-Hussary (Mujawwad)",
       "nameAr": " إذاعة محمود خليل الحصري",
       "description": "Stream Mujawwad Quran recitation by Mahmoud Khalil Al-Hussary with beautiful melody and careful articulation.",
       "country": "Egypt",
@@ -4052,7 +4052,7 @@
     {
       "id": 80,
       "slug": "quran-radio-mahmoud-khalil-al-hussary-warsh",
-      "name": "Quran Radio — Mahmoud Khalil Al-Hussary (Warsh)",
+      "name": "FM- Mahmoud Khalil Al-Hussary (Warsh)",
       "nameAr": " إذاعة محمود خليل الحصري",
       "description": "Listen to Mahmoud Khalil Al-Hussary reciting in Warsh narration, a clear and educational qira'at stream.",
       "country": "Egypt",
@@ -4105,7 +4105,7 @@
     {
       "id": 81,
       "slug": "quran-radio-mahmoud-ali-al-banna",
-      "name": "Quran Radio — Mahmoud Ali Al-Banna",
+      "name": "FM- Mahmoud Ali Al-Banna",
       "nameAr": " إذاعة محمود علي البنا",
       "description": "Stream classic Egyptian Quran recitation by Mahmoud Ali Al-Banna with elegant melody and clear tajwid.",
       "country": "Egypt",
@@ -4156,7 +4156,7 @@
     {
       "id": 82,
       "slug": "quran-radio-mahmoud-ali-al-banna-mujawwad",
-      "name": "Quran Radio — Mahmoud Ali Al-Banna (Mujawwad)",
+      "name": "FM- Mahmoud Ali Al-Banna (Mujawwad)",
       "nameAr": " إذاعة محمود علي البنا",
       "description": "Listen to Mujawwad Quran recitation by Mahmoud Ali Al-Banna with rich maqamat and a classic Egyptian performance.",
       "country": "Egypt",
@@ -4208,7 +4208,7 @@
     {
       "id": 83,
       "slug": "quran-radio-mishary-alafasy",
-      "name": "Quran Radio — Mishary Alafasy",
+      "name": "FM- Mishary Alafasy",
       "nameAr": " إذاعة مشاري العفاسي",
       "description": "Stream Quran recitation by Mishary Alafasy with a widely loved, calming voice perfect for daily listening and worship.",
       "country": "Kuwait",
@@ -4259,7 +4259,7 @@
     {
       "id": 84,
       "slug": "quran-radio-mustafa-ismail",
-      "name": "Quran Radio — Mustafa Ismail",
+      "name": "FM- Mustafa Ismail",
       "nameAr": " إذاعة مصطفى إسماعيل",
       "description": "Listen to masterful Egyptian Quran recitation by Mustafa Ismail, known for exceptional maqamat and artistry.",
       "country": "Egypt",
@@ -4310,7 +4310,7 @@
     {
       "id": 85,
       "slug": "quran-radio-mustafa-al-lahoni",
-      "name": "Quran Radio — Mustafa Al-Lahoni",
+      "name": "FM- Mustafa Al-Lahoni",
       "nameAr": " إذاعة مصطفى اللاهوني",
       "description": "Stream Quran recitation by Mustafa Al-Lahoni with a clear, gentle style suitable for worship and reflection.",
       "country": "Egypt",
@@ -4361,7 +4361,7 @@
     {
       "id": 86,
       "slug": "quran-radio-mustafa-raad-al-azawy",
-      "name": "Quran Radio — Mustafa Raad Al-Azawy",
+      "name": "FM- Mustafa Raad Al-Azawy",
       "nameAr": " إذاعة مصطفى رعد العزاوي",
       "description": "Listen to Quran recitation by Mustafa Raad Al-Azawy with a calm Iraqi style in continuous streaming audio.",
       "country": "Iraq",
@@ -4412,7 +4412,7 @@
     {
       "id": 87,
       "slug": "quran-radio-muftah-al-saltany-ad-duri-an-abi-amr",
-      "name": "Quran Radio — Muftah Al-Saltany (Ad-Duri ‘an Abi ‘Amr)",
+      "name": "FM- Muftah Al-Saltany (Ad-Duri ‘an Abi ‘Amr)",
       "nameAr": " إذاعة مفتاح السلطني",
       "description": "Stream Muftah Al-Saltany in Ad-Duri ‘an Abi ‘Amr reading, a specialized qira'at station for learners.",
       "country": "Libya",
@@ -4465,7 +4465,7 @@
     {
       "id": 88,
       "slug": "quran-radio-maher-shakhashero",
-      "name": "Quran Radio — Maher Shakhashero",
+      "name": "FM- Maher Shakhashero",
       "nameAr": " إذاعة ماهر شخاشيرو",
       "description": "Listen to Quran recitation by Maher Shakhashero with a soft, heartfelt style in smooth online streaming audio.",
       "country": "Syria",
@@ -4516,7 +4516,7 @@
     {
       "id": 89,
       "slug": "quran-radio-mahmoud-al-sheimy",
-      "name": "Quran Radio — Mahmoud Al-Sheimy",
+      "name": "FM- Mahmoud Al-Sheimy",
       "nameAr": " إذاعة محمود الشيمي",
       "description": "Stream Quran recitation by Mahmoud Al-Sheimy with clear tajwid and a calm tone for daily listening and worship.",
       "country": "Egypt",
@@ -4567,7 +4567,7 @@
     {
       "id": 90,
       "slug": "quran-radio-khalid-al-muhanna",
-      "name": "Quran Radio — Khalid Al-Muhanna",
+      "name": "FM- Khalid Al-Muhanna",
       "nameAr": " إذاعة خالد المهنا",
       "description": "Listen to Quran recitation by Khalid Al-Muhanna with a measured, tranquil delivery in continuous streaming audio.",
       "country": "Saudi Arabia",
@@ -4618,7 +4618,7 @@
     {
       "id": 91,
       "slug": "quran-radio-adel-al-kalbani",
-      "name": "Quran Radio — Adel Al-Kalbani",
+      "name": "FM- Adel Al-Kalbani",
       "nameAr": " إذاعة عادل الكلباني",
       "description": "Stream Quran recitation by Adel Al-Kalbani with a strong masjid tone and clear tajwid for daily worship.",
       "country": "Saudi Arabia",
@@ -4669,7 +4669,7 @@
     {
       "id": 92,
       "slug": "quran-radio-mousa-bilal",
-      "name": "Quran Radio — Mousa Bilal",
+      "name": "FM- Mousa Bilal",
       "nameAr": " إذاعة موسى بلال",
       "description": "Listen to Quran recitation by Mousa Bilal with a warm tone and clear articulation in continuous streaming audio.",
       "country": "Sudan",
@@ -4720,7 +4720,7 @@
     {
       "id": 93,
       "slug": "quran-radio-hatem-fareed-al-waer",
-      "name": "Quran Radio — Hatem Fareed Al-Wa'er",
+      "name": "FM- Hatem Fareed Al-Wa'er",
       "nameAr": "حاتم فريد الواعر",
       "description": "Stream Quran recitation by Hatem Fareed Al-Wa'er in clear audio for daily listening, prayer, and spiritual peace.",
       "country": "Syria",
@@ -4771,7 +4771,7 @@
     {
       "id": 94,
       "slug": "quran-radio-mahmoud-al-rifai",
-      "name": "Quran Radio — Mahmoud Al-Rifai",
+      "name": "FM- Mahmoud Al-Rifai",
       "nameAr": " إذاعة محمود الرفاعي",
       "description": "Listen to Quran recitation by Mahmoud Al-Rifai with a calm voice and clear tajwid in continuous streaming audio.",
       "country": "Kuwait",
@@ -4822,7 +4822,7 @@
     {
       "id": 95,
       "slug": "quran-radio-ibrahim-al-dosari",
-      "name": "Quran Radio — Ibrahim Al-Dosari",
+      "name": "FM- Ibrahim Al-Dosari",
       "nameAr": " إذاعة ابراهيم الدوسري",
       "description": "Stream Quran recitation by Ibrahim Al-Dosari with a steady pace and clear pronunciation for daily worship and calm.",
       "country": "Saudi Arabia",
@@ -4873,7 +4873,7 @@
     {
       "id": 96,
       "slug": "quran-radio-muftah-al-saltany-ad-durai",
-      "name": "Quran Radio — Muftah Al-Saltany (Ad-Durai)",
+      "name": "FM- Muftah Al-Saltany (Ad-Durai)",
       "nameAr": " إذاعة مفتاح السلطني",
       "description": "Listen to Muftah Al-Saltany in Ad-Duri narration (variant stream) with clear tajwid and stable audio streaming.",
       "country": "Libya",
@@ -4926,7 +4926,7 @@
     {
       "id": 97,
       "slug": "quran-radio-jamaan-al-osaimi",
-      "name": "Quran Radio — Jamaan Al-Osaimi",
+      "name": "FM- Jamaan Al-Osaimi",
       "nameAr": " إذاعة جمعان العصيمي",
       "description": "Stream Quran recitation by Jamaan Al-Osaimi with a calm delivery and clear pronunciation for daily listening.",
       "country": "Saudi Arabia",
@@ -4977,7 +4977,7 @@
     {
       "id": 98,
       "slug": "quran-radio-muftah-al-saltany",
-      "name": "Quran Radio — Muftah Al-Saltany",
+      "name": "FM- Muftah Al-Saltany",
       "nameAr": " إذاعة مفتاح السلطني",
       "description": "Listen to Quran recitation by Muftah Al-Saltany in continuous streaming audio, focused on qira'at and tajwid clarity.",
       "country": "Libya",
@@ -5029,7 +5029,7 @@
     {
       "id": 99,
       "slug": "quran-radio-yousef-bin-noah-ahmad",
-      "name": "Quran Radio — Yousef Bin Noah Ahmad",
+      "name": "FM- Yousef Bin Noah Ahmad",
       "nameAr": " إذاعة يوسف بن نوح أحمد",
       "description": "Stream Quran recitation by Yousef Bin Noah Ahmad with a smooth tone and clear tajwid for daily worship and calm.",
       "country": "Kuwait",
@@ -5080,7 +5080,7 @@
     {
       "id": 100,
       "slug": "quran-radio-muftah-al-saltany-ibn-dhakwan-an-ibn-amr",
-      "name": "Quran Radio — Muftah Al-Saltany (Ibn Dhakwan ‘an Ibn ‘Amr)",
+      "name": "FM- Muftah Al-Saltany (Ibn Dhakwan ‘an Ibn ‘Amr)",
       "nameAr": " إذاعة مفتاح السلطني",
       "description": "Listen to Muftah Al-Saltany in Ibn Dhakwan narration, a specialized qira'at stream for advanced listeners.",
       "country": "Libya",
@@ -5133,7 +5133,7 @@
     {
       "id": 101,
       "slug": "quran-radio-moeedh-al-harthi",
-      "name": "Quran Radio — Moeedh Al-Harthi",
+      "name": "FM- Moeedh Al-Harthi",
       "nameAr": " إذاعة معيض الحارثي",
       "description": "Stream Quran recitation by Moeedh Al-Harthi with a gentle delivery and clear pronunciation for daily listening.",
       "country": "Saudi Arabia",
@@ -5184,7 +5184,7 @@
     {
       "id": 102,
       "slug": "quran-radio-mohammad-rashad-al-shareef",
-      "name": "Quran Radio — Mohammad Rashad Al-Shareef",
+      "name": "FM- Mohammad Rashad Al-Shareef",
       "nameAr": " إذاعة محمد رشاد الشريف",
       "description": "Listen to Quran recitation by Mohammad Rashad Al-Shareef with a calm masjid tone and clean streaming audio.",
       "country": "Saudi Arabia",
@@ -5235,7 +5235,7 @@
     {
       "id": 103,
       "slug": "quran-radio-ahmad-khader-al-trabulsi",
-      "name": "Quran Radio — Ahmad Khader Al-Trabulsi",
+      "name": "FM- Ahmad Khader Al-Trabulsi",
       "nameAr": " إذاعة أحمد خضر الطرابلسي",
       "description": "Stream Quran recitation by Ahmad Khader Al-Trabulsi with clear tajwid and a soothing cadence for daily listening.",
       "country": "Lebanon",
@@ -5286,7 +5286,7 @@
     {
       "id": 104,
       "slug": "quran-radio-ahmed-al-trabulsi",
-      "name": "Quran Radio — Ahmed Al-Trabulsi",
+      "name": "FM- Ahmed Al-Trabulsi",
       "nameAr": " إذاعة أحمد الطرابلسي",
       "description": "Listen to Quran recitation by Ahmed Al-Trabulsi in smooth streaming audio, ideal for worship and reflection.",
       "country": "Lebanon",
@@ -5337,7 +5337,7 @@
     {
       "id": 105,
       "slug": "quran-radio-abdullah-al-kandari",
-      "name": "Quran Radio — Abdullah Al-Kandari",
+      "name": "FM- Abdullah Al-Kandari",
       "nameAr": " إذاعة عبدالله الكندري",
       "description": "Stream Quran recitation by Abdullah Al-Kandari with clear tajwid and a calm pace for daily listening and worship.",
       "country": "Kuwait",
@@ -5388,7 +5388,7 @@
     {
       "id": 106,
       "slug": "quran-radio-ahmed-amer",
-      "name": "Quran Radio — Ahmed Amer",
+      "name": "FM- Ahmed Amer",
       "nameAr": " إذاعة أحمد عامر",
       "description": "Listen to Quran recitation by Ahmed Amer with a traditional style and clear tajwid in continuous streaming audio.",
       "country": "Egypt",
@@ -5439,7 +5439,7 @@
     {
       "id": 107,
       "slug": "quran-radio-mohammed-osman-khan",
-      "name": "Quran Radio — Mohammed Osman Khan",
+      "name": "FM- Mohammed Osman Khan",
       "nameAr": "إذاعة محمد عثمان خان",
       "description": "Stream Quran recitation by Mohammed Osman Khan with clear articulation and steady pacing for daily listening and devotion.",
       "country": "Pakistan",
@@ -5490,7 +5490,7 @@
     {
       "id": 108,
       "slug": "quran-radio-addokali-mohammad-al-alim",
-      "name": "Quran Radio — Addokali Mohammad Al-Alim",
+      "name": "FM- Addokali Mohammad Al-Alim",
       "nameAr": " إذاعة الدوكالي محمد العالم",
       "description": "Listen to Moroccan Quran recitation by Addokali Mohammad Al-Alim with a calm, clear style in streaming audio.",
       "country": "Morocco",
@@ -5541,7 +5541,7 @@
     {
       "id": 109,
       "slug": "quran-radio-mohammad-abdulkareem-al-asbahani",
-      "name": "Quran Radio — Mohammad AbdulKareem (Al-Asbahani)",
+      "name": "FM- Mohammad AbdulKareem (Al-Asbahani)",
       "nameAr": " إذاعة محمد عبدالكريم",
       "description": "Stream Quran recitation by Mohammad AbdulKareem (Al-Asbahani) with clear tajwid and steady pacing for daily worship.",
       "country": "Saudi Arabia",
@@ -5592,7 +5592,7 @@
     {
       "id": 110,
       "slug": "quran-radio-al-fateh-al-zubair",
-      "name": "Quran Radio — Al-Fateh Al-Zubair",
+      "name": "FM- Al-Fateh Al-Zubair",
       "nameAr": " إذاعة الفاتح محمد الزبير",
       "description": "Listen to Quran recitation by Al-Fateh Al-Zubair with a warm Sudanese tone and clear pronunciation in streaming audio.",
       "country": "Sudan",
@@ -5643,7 +5643,7 @@
     {
       "id": 111,
       "slug": "quran-radio-tareq-abdulghani-daawob",
-      "name": "Quran Radio — Tareq Abdulghani Daawob",
+      "name": "FM- Tareq Abdulghani Daawob",
       "nameAr": " إذاعة طارق عبدالغني دعوب",
       "description": "Stream Quran recitation by Tareq Abdulghani Daawob with clear tajwid and a calm rhythm for daily remembrance.",
       "country": "Yemen",
@@ -5694,7 +5694,7 @@
     {
       "id": 112,
       "slug": "quran-radio-mixed-reciters-general",
-      "name": "Quran Radio — Mixed Reciters (General)",
+      "name": "FM- Mixed Reciters (General)",
       "nameAr": "-الإذاعة العامة - اذاعة متنوعة لمختلف القراء",
       "description": "A mixed Quran radio station featuring multiple reciters—perfect for continuous listening, discovery, and daily worship.",
       "country": "International",
@@ -5746,7 +5746,7 @@
     {
       "id": 113,
       "slug": "quran-radio-humble-emotional-recitations",
-      "name": "Quran Radio — Humble & Emotional Recitations",
+      "name": "FM- Humble & Emotional Recitations",
       "nameAr": "إذاعة -تلاوات خاشعة-",
       "description": "Stream deeply humble, emotional Quran recitations (khushu’) for tranquility, heartfelt reflection, and worship.",
       "country": "International",
@@ -5850,7 +5850,7 @@
     {
       "id": 115,
       "slug": "quran-radio-abdulrahman-al-majed",
-      "name": "Quran Radio — Abdulrahman Al-Majed",
+      "name": "FM- Abdulrahman Al-Majed",
       "nameAr": " إذاعة عبدالرحمن الماجد",
       "description": "Stream Quran recitation by Abdulrahman Al-Majed with a calm, clear masjid tone for daily listening and worship.",
       "country": "Saudi Arabia",
@@ -6056,7 +6056,7 @@
     {
       "id": 119,
       "slug": "quran-radio-tafsir-quran-explanation",
-      "name": "Quran Radio — Tafsir (Quran Explanation)",
+      "name": "FM- Tafsir (Quran Explanation)",
       "nameAr": "إذاعة --تفسير القران الكريم--",
       "description": "Listen to Quran Tafsir audio—clear explanations and lessons to help understand meanings, context, and guidance.",
       "country": "International",
@@ -6107,7 +6107,7 @@
     {
       "id": 120,
       "slug": "quran-radio-khalid-al-jalil",
-      "name": "Quran Radio — Khalid Al-Jalil",
+      "name": "FM- Khalid Al-Jalil",
       "nameAr": "إذاعة خالد الجليل",
       "description": "Stream Quran recitation by Khalid Al-Jalil with a deeply emotional tone, perfect for night listening and reflection.",
       "country": "Saudi Arabia",
@@ -6158,7 +6158,7 @@
     {
       "id": 121,
       "slug": "quran-radio-nasser-al-majed",
-      "name": "Quran Radio — Nasser Al-Majed",
+      "name": "FM- Nasser Al-Majed",
       "nameAr": "إذاعة ناصر الماجد",
       "description": "Listen to Quran recitation by Nasser Al-Majed with a calm, clear voice for daily worship and peaceful listening.",
       "country": "Saudi Arabia",
@@ -6209,7 +6209,7 @@
     {
       "id": 122,
       "slug": "quran-radio-haitham-al-jadani",
-      "name": "Quran Radio — Haitham Al-Jadani",
+      "name": "FM- Haitham Al-Jadani",
       "nameAr": "إذاعة هيثم الجدعاني",
       "description": "Stream Quran recitation by Haitham Al-Jadani with clear tajwid and a steady pace in high-quality audio.",
       "country": "Saudi Arabia",
@@ -6260,7 +6260,7 @@
     {
       "id": 123,
       "slug": "quran-radio-ahmad-khalil-shaheen",
-      "name": "Quran Radio — Ahmad Khalil Shaheen",
+      "name": "FM- Ahmad Khalil Shaheen",
       "nameAr": "إذاعة أحمد خليل شاهين",
       "description": "Listen to Quran recitation by Ahmad Khalil Shaheen with a traditional style and clear streaming audio for devotion.",
       "country": "Egypt",
@@ -6311,7 +6311,7 @@
     {
       "id": 124,
       "slug": "quran-radio-abdullah-al-mousa",
-      "name": "Quran Radio — Abdullah Al-Mousa",
+      "name": "FM- Abdullah Al-Mousa",
       "nameAr": "إذاعة عبدالله الموسى",
       "description": "Stream Quran recitation by Abdullah Al-Mousa with a calm, clear masjid tone ideal for daily worship and reflection.",
       "country": "Saudi Arabia",
@@ -6362,7 +6362,7 @@
     {
       "id": 125,
       "slug": "quran-radio-abdullah-al-khalaf",
-      "name": "Quran Radio — Abdullah Al-Khalaf",
+      "name": "FM- Abdullah Al-Khalaf",
       "nameAr": "إذاعة عبدالله الخلف",
       "description": "Listen to Quran recitation by Abdullah Al-Khalaf in continuous streaming audio for calm, worship, and daily remembrance.",
       "country": "Saudi Arabia",
@@ -6465,7 +6465,7 @@
     {
       "id": 127,
       "slug": "quran-radio-majed-al-zamel",
-      "name": "Quran Radio — Majed Al-Zamel",
+      "name": "FM- Majed Al-Zamel",
       "nameAr": "إذاعة ماجد الزامل",
       "description": "Listen to Quran recitation by Majed Al-Zamel with a calm style and clear tajwid in continuous streaming audio.",
       "country": "Saudi Arabia",
@@ -6516,7 +6516,7 @@
     {
       "id": 128,
       "slug": "quran-radio-bandar-balilah",
-      "name": "Quran Radio — Bandar Balilah",
+      "name": "FM- Bandar Balilah",
       "nameAr": "إذاعة بندر بليلة",
       "description": "Stream Quran recitation by Bandar Balilah with a soft, clear masjid tone ideal for worship, calm, and reflection.",
       "country": "Saudi Arabia",
@@ -6567,7 +6567,7 @@
     {
       "id": 129,
       "slug": "quran-radio-nasser-al-osfor",
-      "name": "Quran Radio — Nasser Al-Osfor",
+      "name": "FM- Nasser Al-Osfor",
       "nameAr": "إذاعة ناصر العصفور",
       "description": "Listen to Quran recitation by Nasser Al-Osfor with a calm, clear style for daily listening and worship.",
       "country": "Kuwait",
@@ -6618,7 +6618,7 @@
     {
       "id": 130,
       "slug": "quran-radio-muhammad-ayyub-special-recitation",
-      "name": "Quran Radio — Muhammad Ayyub (Special Recitation)",
+      "name": "FM- Muhammad Ayyub (Special Recitation)",
       "nameAr": "إذاعة محمد أيوب - قراءة مميزة-",
       "description": "Stream a special selection of Muhammad Ayyub’s Quran recitations—clear tajwid, balanced tone, and calm pacing.",
       "country": "Saudi Arabia",
@@ -6670,7 +6670,7 @@
     {
       "id": 131,
       "slug": "quran-radio-ahmad-deban",
-      "name": "Quran Radio — Ahmad Deban",
+      "name": "FM- Ahmad Deban",
       "nameAr": "إذاعة أحمد ديبان",
       "description": "Listen to Quran recitation by Ahmad Deban with a clear, soothing delivery and stable online streaming audio.",
       "country": "Syria",
@@ -6721,7 +6721,7 @@
     {
       "id": 132,
       "slug": "quran-radio-muhammad-abu-sneineh",
-      "name": "Quran Radio — Muhammad Abu Sneineh",
+      "name": "FM- Muhammad Abu Sneineh",
       "nameAr": "أذاعة محمد أبوسنينة",
       "description": "Stream Quran recitation by Muhammad Abu Sneineh with a calm, heartfelt style for daily worship and reflection.",
       "country": "Palestine",
@@ -6772,7 +6772,7 @@
     {
       "id": 133,
       "slug": "quran-radio-muhammad-al-amin-qeniwa",
-      "name": "Quran Radio — Muhammad Al-Amin Qeniwa",
+      "name": "FM- Muhammad Al-Amin Qeniwa",
       "nameAr": "إذاعة محمد الأمين قنيوة",
       "description": "Listen to Quran recitation by Muhammad Al-Amin Qeniwa with a clear tone and steady pacing in streaming audio.",
       "country": "Libya",
@@ -6823,7 +6823,7 @@
     {
       "id": 134,
       "slug": "quran-radio-abdulrahman-al-shahhat",
-      "name": "Quran Radio — Abdulrahman Al-Shahhat",
+      "name": "FM- Abdulrahman Al-Shahhat",
       "nameAr": "إذاعة عبدالرحمن الشحات",
       "description": "Stream Quran recitation by Abdulrahman Al-Shahhat with a traditional Egyptian style and clear tajwid in audio.",
       "country": "Egypt",
@@ -6874,7 +6874,7 @@
     {
       "id": 135,
       "slug": "quran-radio-abdulaziz-suheim",
-      "name": "Quran Radio — Abdulaziz Suheim",
+      "name": "FM- Abdulaziz Suheim",
       "nameAr": "عبدالعزيز سحيم",
       "description": "Listen to Quran recitation by Abdulaziz Suheim in continuous streaming audio for calm, worship, and daily remembrance.",
       "country": "Saudi Arabia",
@@ -7028,7 +7028,7 @@
     {
       "id": 138,
       "slug": "quran-radio-the-concise-tafsir-mukhtasar",
-      "name": "Quran Radio — The Concise Tafsir (Mukhtasar)",
+      "name": "FM- The Concise Tafsir (Mukhtasar)",
       "nameAr": "المختصر في تفسير القرآن الكريم",
       "description": "Stream concise Quran Tafsir (Mukhtasar) audio—clear summaries to understand meanings, lessons, and guidance.",
       "country": "International",
@@ -7387,7 +7387,7 @@
     {
       "id": 145,
       "slug": "quran-radio-saleh-al-habdan",
-      "name": "Quran Radio — Saleh Al-Habdan",
+      "name": "FM- Saleh Al-Habdan",
       "nameAr": "صالح الهبدان",
       "description": "Listen to Quran recitation by Saleh Al-Habdan with clear tajwid and steady pacing in continuous streaming audio.",
       "country": "Saudi Arabia",
@@ -9043,7 +9043,7 @@
     {
       "id": 177,
       "slug": "quran-radio-abdullah-al-buayjan",
-      "name": "Quran Radio — Abdullah Al-Bu'ayjan",
+      "name": "FM- Abdullah Al-Bu'ayjan",
       "nameAr": "عبدالله البعيجان",
       "description": "Listen to Quran recitation by Abdullah Al-Bu'ayjan with a calm masjid tone and clear tajwid in streaming audio.",
       "country": "Saudi Arabia",
@@ -9094,7 +9094,7 @@
     {
       "id": 178,
       "slug": "quran-radio-ahmad-talib-bin-humaid",
-      "name": "Quran Radio — Ahmad Talib Bin Humaid",
+      "name": "FM- Ahmad Talib Bin Humaid",
       "nameAr": "أحمد طالب بن حميد",
       "description": "Stream Quran recitation by Ahmad Talib Bin Humaid with clear tajwid and a steady pace for daily worship and calm.",
       "country": "Saudi Arabia",
@@ -9196,7 +9196,7 @@
     {
       "id": 180,
       "slug": "quran-radio-badr-al-turki",
-      "name": "Quran Radio — Badr Al-Turki",
+      "name": "FM- Badr Al-Turki",
       "nameAr": "بدر التركي",
       "description": "Stream Quran recitation by Badr Al-Turki with clear tajwid and a calm tone for daily listening and spiritual focus.",
       "country": "Saudi Arabia",
@@ -9247,7 +9247,7 @@
     {
       "id": 181,
       "slug": "quran-radio-hazza-al-balushi",
-      "name": "Quran Radio — Hazza Al-Balushi",
+      "name": "FM- Hazza Al-Balushi",
       "nameAr": "هزاع البلوشي",
       "description": "Listen to Quran recitation by Hazza Al-Balushi with a gentle, emotional style ideal for reflection and calm listening.",
       "country": "Oman",
@@ -9349,7 +9349,7 @@
     {
       "id": 183,
       "slug": "quran-radio-sayed-ramadan",
-      "name": "Quran Radio — Sayed Ramadan",
+      "name": "FM- Sayed Ramadan",
       "nameAr": "إذاعة سيد رمضان",
       "description": "Listen to Quran recitation by Sayed Ramadan with a calm, steady delivery perfect for daily listening and spiritual focus.",
       "country": "Egypt",
@@ -9400,7 +9400,7 @@
     {
       "id": 184,
       "slug": "quran-radio-sherzad-abdul-rahman-taher",
-      "name": "Quran Radio — Sherzad Abdul Rahman Taher",
+      "name": "FM- Sherzad Abdul Rahman Taher",
       "nameAr": "إذاعة شيرزاد عبدالرحمن طاهر",
       "description": "Stream Quran recitation by Sherzad Abdul Rahman Taher in clear audio for peaceful listening and daily devotion.",
       "country": "Iraq",
@@ -9451,7 +9451,7 @@
     {
       "id": 185,
       "slug": "quran-radio-saber-abdul-hakam",
-      "name": "Quran Radio — Saber Abdul Hakam",
+      "name": "FM- Saber Abdul Hakam",
       "nameAr": "إذاعة صابر عبدالحكم",
       "description": "Enjoy Quran recitation by Saber Abdul Hakam with a gentle, reverent style ideal for reflection and worship.",
       "country": "Egypt",
@@ -9502,7 +9502,7 @@
     {
       "id": 186,
       "slug": "quran-radio-saleh-al-sahood",
-      "name": "Quran Radio — Saleh Al-Sahood",
+      "name": "FM- Saleh Al-Sahood",
       "nameAr": "إذاعة صالح الصهود",
       "description": "Stream Quran recitation by Saleh Al-Sahood in high-quality audio for daily listening, calm, and spiritual focus.",
       "country": "Saudi Arabia",
@@ -9553,7 +9553,7 @@
     {
       "id": 187,
       "slug": "quran-radio-saleh-al-habdan",
-      "name": "Quran Radio — Saleh Al-Habdan",
+      "name": "FM- Saleh Al-Habdan",
       "nameAr": "إذاعة صالح الهبدان",
       "description": "Listen to Quran recitation by Saleh Al-Habdan with a peaceful delivery, perfect for reflection and daily worship.",
       "country": "Saudi Arabia",
@@ -9604,7 +9604,7 @@
     {
       "id": 188,
       "slug": "quran-radio-saleh-al-fawzan",
-      "name": "Quran Radio — Saleh Al-Fawzan",
+      "name": "FM- Saleh Al-Fawzan",
       "nameAr": "إذاعة صالح الفوزان",
       "description": "Stream Quran recitation by Saleh Al-Fawzan in continuous audio for spiritual focus and daily remembrance.",
       "country": "Saudi Arabia",
@@ -9655,7 +9655,7 @@
     {
       "id": 189,
       "slug": "quran-radio-tariq-abdul-ghani-daob",
-      "name": "Quran Radio — Tariq Abdul Ghani Daob",
+      "name": "FM- Tariq Abdul Ghani Daob",
       "nameAr": "إذاعة طارق عبدالغني دعوب",
       "description": "Listen to Quran recitation by Tariq Abdul Ghani Daob in smooth streaming audio for daily worship and calm.",
       "country": "Libya",
@@ -9706,7 +9706,7 @@
     {
       "id": 190,
       "slug": "quran-radio-adel-al-kalbani",
-      "name": "Quran Radio — Adel Al-Kalbani",
+      "name": "FM- Adel Al-Kalbani",
       "nameAr": "إذاعة عادل الكلباني",
       "description": "Stream Quran recitation by Adel Al-Kalbani with a strong, resonant voice perfect for daily listening and reflection.",
       "country": "Saudi Arabia",
@@ -9757,7 +9757,7 @@
     {
       "id": 191,
       "slug": "quran-radio-adel-rayan",
-      "name": "Quran Radio — Adel Rayan",
+      "name": "FM- Adel Rayan",
       "nameAr": "إذاعة عادل ريان",
       "description": "Enjoy Quran recitation by Adel Rayan with a peaceful, heartfelt delivery ideal for worship and daily devotion.",
       "country": "Saudi Arabia",
@@ -9808,7 +9808,7 @@
     {
       "id": 192,
       "slug": "quran-radio-abdul-bari-al-thubaity",
-      "name": "Quran Radio — Abdul Bari Al-Thubaity",
+      "name": "FM- Abdul Bari Al-Thubaity",
       "nameAr": "إذاعة عبدالباري الثبيتي",
       "description": "Stream Quran recitation by Abdul Bari Al-Thubaity in clear audio for spiritual focus and daily remembrance.",
       "country": "Saudi Arabia",

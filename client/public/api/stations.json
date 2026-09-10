@@ -85,7 +85,7 @@
     },
     {
       "id": 5,
-      "name": "Quran Radio — Ibrahim Al-Akhdar",
+      "name": "FM- Ibrahim Al-Akhdar",
       "nameAr": "إذاعة إبراهيم الأخضر",
       "streamUrl": "https://backup.qurango.net/radio/ibrahim_alakdar",
       "streamFormat": "unknown",
@@ -104,7 +104,7 @@
     },
     {
       "id": 6,
-      "name": "Quran Radio — Abu Bakr Al-Shatri",
+      "name": "FM- Abu Bakr Al-Shatri",
       "nameAr": "إذاعة شيخ أبو بكر الشاطري",
       "streamUrl": "https://backup.qurango.net/radio/shaik_abu_bakr_al_shatri",
       "streamFormat": "unknown",
@@ -123,7 +123,7 @@
     },
     {
       "id": 7,
-      "name": "Quran Radio — Ahmad Al-Ajmi",
+      "name": "FM- Ahmad Al-Ajmi",
       "nameAr": "إذاعة أحمد العجمي",
       "streamUrl": "https://backup.qurango.net/radio/ahmad_alajmy",
       "streamFormat": "unknown",
@@ -142,7 +142,7 @@
     },
     {
       "id": 8,
-      "name": "Quran Radio — Ahmad Al-Hawashi",
+      "name": "FM- Ahmad Al-Hawashi",
       "nameAr": "إذاعة أحمد الحواشي",
       "streamUrl": "https://backup.qurango.net/radio/ahmad_alhawashi",
       "streamFormat": "unknown",
@@ -161,7 +161,7 @@
     },
     {
       "id": 9,
-      "name": "Quran Radio — Ahmad Saber",
+      "name": "FM- Ahmad Saber",
       "nameAr": "إذاعة أحمد صابر",
       "streamUrl": "https://backup.qurango.net/radio/ahmad_saber",
       "streamFormat": "unknown",
@@ -180,7 +180,7 @@
     },
     {
       "id": 10,
-      "name": "Quran Radio — Ahmad Nuaina",
+      "name": "FM- Ahmad Nuaina",
       "nameAr": "إذاعة أحمد نعينع",
       "streamUrl": "https://backup.qurango.net/radio/ahmad_nauina",
       "streamFormat": "unknown",
@@ -199,7 +199,7 @@
     },
     {
       "id": 11,
-      "name": "Quran Radio — Akram Al-Alaqmi",
+      "name": "FM- Akram Al-Alaqmi",
       "nameAr": "إذاعة أكرم العلاقمي",
       "streamUrl": "https://backup.qurango.net/radio/akram_alalaqmi",
       "streamFormat": "unknown",
@@ -218,7 +218,7 @@
     },
     {
       "id": 12,
-      "name": "Quran Radio — Idris Abkar",
+      "name": "FM- Idris Abkar",
       "nameAr": "إذاعة إدريس أبكر",
       "streamUrl": "https://backup.qurango.net/radio/idrees_abkr",
       "streamFormat": "unknown",
@@ -237,7 +237,7 @@
     },
     {
       "id": 13,
-      "name": "Quran Radio — Al-Zain Muhammad Ahmad",
+      "name": "FM- Al-Zain Muhammad Ahmad",
       "nameAr": "إذاعة الزين محمد أحمد",
       "streamUrl": "https://backup.qurango.net/radio/alzain_mohammad_ahmad",
       "streamFormat": "unknown",
@@ -256,7 +256,7 @@
     },
     {
       "id": 14,
-      "name": "Quran Radio — Al-Qari Yاسين",
+      "name": "FM- Al-Qari Yاسين",
       "nameAr": "إذاعة القارئ ياسين",
       "streamUrl": "https://backup.qurango.net/radio/alqaria_yassen",
       "streamFormat": "unknown",
@@ -275,7 +275,7 @@
     },
     {
       "id": 15,
-      "name": "Quran Radio — Aloyoon Al-Koshi",
+      "name": "FM- Aloyoon Al-Koshi",
       "nameAr": "إذاعة العيون الكوشي",
       "streamUrl": "https://backup.qurango.net/radio/aloyoon_alkoshi",
       "streamFormat": "unknown",
@@ -294,7 +294,7 @@
     },
     {
       "id": 16,
-      "name": "Quran Radio — Tawfeeq Al-Sayegh",
+      "name": "FM- Tawfeeq Al-Sayegh",
       "nameAr": "إذاعة توفيق الصايغ",
       "streamUrl": "https://backup.qurango.net/radio/tawfeeq_assayegh",
       "streamFormat": "unknown",
@@ -313,7 +313,7 @@
     },
     {
       "id": 17,
-      "name": "Quran Radio — Jamal Shaker Abdullah",
+      "name": "FM- Jamal Shaker Abdullah",
       "nameAr": "إذاعة جمال شاكر عبدالله",
       "streamUrl": "https://backup.qurango.net/radio/jamal_shaker_abdullah",
       "streamFormat": "unknown",
@@ -332,7 +332,7 @@
     },
     {
       "id": 18,
-      "name": "Quran Radio — Khaled Al-Qahtani",
+      "name": "FM- Khaled Al-Qahtani",
       "nameAr": "إذاعة خالد القحطاني",
       "streamUrl": "https://backup.qurango.net/radio/khaled_alqahtani",
       "streamFormat": "unknown",
@@ -351,7 +351,7 @@
     },
     {
       "id": 19,
-      "name": "Quran Radio — Khalid AbdulKafi",
+      "name": "FM- Khalid AbdulKafi",
       "nameAr": "إذاعة خالد عبدالكافي",
       "streamUrl": "https://backup.qurango.net/radio/khalid_abdulkafi",
       "streamFormat": "unknown",
@@ -370,7 +370,7 @@
     },
     {
       "id": 20,
-      "name": "Quran Radio — Khalifa Al-Tunaiji",
+      "name": "FM- Khalifa Al-Tunaiji",
       "nameAr": "إذاعة خليفة الطنيجي",
       "streamUrl": "https://backup.qurango.net/radio/khalifa_altunaiji",
       "streamFormat": "unknown",
@@ -389,7 +389,7 @@
     },
     {
       "id": 21,
-      "name": "Quran Radio — Saad Al-Ghamdi",
+      "name": "FM- Saad Al-Ghamdi",
       "nameAr": "إذاعة سعد الغامدي",
       "streamUrl": "https://backup.qurango.net/radio/saad_alghamdi",
       "streamFormat": "unknown",
@@ -408,7 +408,7 @@
     },
     {
       "id": 22,
-      "name": "Quran Radio — Saud Al-Shuraim",
+      "name": "FM- Saud Al-Shuraim",
       "nameAr": "إذاعة سعود الشريم",
       "streamUrl": "https://backup.qurango.net/radio/saud_alshuraim",
       "streamFormat": "unknown",
@@ -427,7 +427,7 @@
     },
     {
       "id": 23,
-      "name": "Quran Radio — Sahl Yassin",
+      "name": "FM- Sahl Yassin",
       "nameAr": "إذاعة سهل ياسين",
       "streamUrl": "https://backup.qurango.net/radio/sahl_yassin",
       "streamFormat": "unknown",
@@ -446,7 +446,7 @@
     },
     {
       "id": 24,
-      "name": "Quran Radio — Zaki Daghistani",
+      "name": "FM- Zaki Daghistani",
       "nameAr": "إذاعة زكي داغستاني",
       "streamUrl": "https://backup.qurango.net/radio/zaki_daghistani",
       "streamFormat": "unknown",
@@ -465,7 +465,7 @@
     },
     {
       "id": 25,
-      "name": "Quran Radio — Sayed Ramadan",
+      "name": "FM- Sayed Ramadan",
       "nameAr": "إذاعة سيد رمضان",
       "streamUrl": "https://backup.qurango.net/radio/sayeed_ramadan",
       "streamFormat": "unknown",
@@ -484,7 +484,7 @@
     },
     {
       "id": 26,
-      "name": "Quran Radio — Shirzad Abdulrahman Taher",
+      "name": "FM- Shirzad Abdulrahman Taher",
       "nameAr": "إذاعة شيرزاد عبدالرحمن طاهر",
       "streamUrl": "https://backup.qurango.net/radio/shirazad_taher",
       "streamFormat": "unknown",
@@ -503,7 +503,7 @@
     },
     {
       "id": 27,
-      "name": "Quran Radio — Saber Abdulhakm",
+      "name": "FM- Saber Abdulhakm",
       "nameAr": "إذاعة صابر عبدالحكم",
       "streamUrl": "https://backup.qurango.net/radio/saber_abdulhakm",
       "streamFormat": "unknown",
@@ -522,7 +522,7 @@
     },
     {
       "id": 28,
-      "name": "Quran Radio — Salah Al-Budair",
+      "name": "FM- Salah Al-Budair",
       "nameAr": "إذاعة صلاح البدير",
       "streamUrl": "https://backup.qurango.net/radio/salah_albudair",
       "streamFormat": "unknown",
@@ -541,7 +541,7 @@
     },
     {
       "id": 29,
-      "name": "Quran Radio — Salah Al-Hashim",
+      "name": "FM- Salah Al-Hashim",
       "nameAr": "إذاعة صلاح الهاشم",
       "streamUrl": "https://backup.qurango.net/radio/salah_alhashim",
       "streamFormat": "unknown",
@@ -560,7 +560,7 @@
     },
     {
       "id": 30,
-      "name": "Quran Radio — Salah Bukhatir",
+      "name": "FM- Salah Bukhatir",
       "nameAr": "إذاعة صلاح بو خاطر",
       "streamUrl": "https://backup.qurango.net/radio/slaah_bukhatir",
       "streamFormat": "unknown",
@@ -579,7 +579,7 @@
     },
     {
       "id": 31,
-      "name": "Quran Radio — Adel Rayan",
+      "name": "FM- Adel Rayan",
       "nameAr": "إذاعة عادل ريان",
       "streamUrl": "https://backup.qurango.net/radio/adel_ryyan",
       "streamFormat": "unknown",
@@ -598,7 +598,7 @@
     },
     {
       "id": 32,
-      "name": "Quran Radio — Abdulbari Al-Thubayti",
+      "name": "FM- Abdulbari Al-Thubayti",
       "nameAr": "إذاعة عبدالبارئ الثبيتي",
       "streamUrl": "https://backup.qurango.net/radio/abdelbari_altoubayti",
       "streamFormat": "unknown",
@@ -617,7 +617,7 @@
     },
     {
       "id": 33,
-      "name": "Quran Radio — Abdulbari Muhammad",
+      "name": "FM- Abdulbari Muhammad",
       "nameAr": "إذاعة عبدالبارئ محمد",
       "streamUrl": "https://backup.qurango.net/radio/abdulbari_mohammad",
       "streamFormat": "unknown",
@@ -636,7 +636,7 @@
     },
     {
       "id": 34,
-      "name": "Quran Radio — AbdulBasit AbdulSamad (Mujawwad)",
+      "name": "FM- AbdulBasit AbdulSamad (Mujawwad)",
       "nameAr": "إذاعة عبدالباسط عبدالصمد",
       "streamUrl": "https://backup.qurango.net/radio/abdulbasit_abdulsamad_mojawwad",
       "streamFormat": "unknown",
@@ -656,7 +656,7 @@
     },
     {
       "id": 35,
-      "name": "Quran Radio — AbdulBasit AbdulSamad (Warsh)",
+      "name": "FM- AbdulBasit AbdulSamad (Warsh)",
       "nameAr": "إذاعة عبدالباسط عبدالصمد",
       "streamUrl": "https://backup.qurango.net/radio/abdulbasit_abdulsamad_warsh",
       "streamFormat": "unknown",
@@ -677,7 +677,7 @@
     },
     {
       "id": 36,
-      "name": "Quran Radio — AbdulBasit AbdulSamad",
+      "name": "FM- AbdulBasit AbdulSamad",
       "nameAr": "إذاعة عبدالباسط عبدالصمد",
       "streamUrl": "https://backup.qurango.net/radio/abdulbasit_abdulsamad",
       "streamFormat": "unknown",
@@ -696,7 +696,7 @@
     },
     {
       "id": 37,
-      "name": "Quran Radio — Abdulrahman Al-Sudais",
+      "name": "FM- Abdulrahman Al-Sudais",
       "nameAr": "إذاعة عبدالرحمن السديس",
       "streamUrl": "https://backup.qurango.net/radio/abdulrahman_alsudaes",
       "streamFormat": "unknown",
@@ -715,7 +715,7 @@
     },
     {
       "id": 38,
-      "name": "Quran Radio — Abdulaziz Al-Ahmad",
+      "name": "FM- Abdulaziz Al-Ahmad",
       "nameAr": "إذاعة عبدالعزيز الأحمد",
       "streamUrl": "https://backup.qurango.net/radio/abdul_aziz_alahmad",
       "streamFormat": "unknown",
@@ -734,7 +734,7 @@
     },
     {
       "id": 39,
-      "name": "Quran Radio — Abdullah Al-Mattrod",
+      "name": "FM- Abdullah Al-Mattrod",
       "nameAr": "إذاعة عبدالله المطرود",
       "streamUrl": "https://backup.qurango.net/radio/abdullah_almattrod",
       "streamFormat": "unknown",
@@ -753,7 +753,7 @@
     },
     {
       "id": 40,
-      "name": "Quran Radio — Abdullah Basfar",
+      "name": "FM- Abdullah Basfar",
       "nameAr": "إذاعة عبدالله بصفر",
       "streamUrl": "https://backup.qurango.net/radio/abdullah_basfer",
       "streamFormat": "unknown",
@@ -772,7 +772,7 @@
     },
     {
       "id": 41,
-      "name": "Quran Radio — Abdullah Khayyat",
+      "name": "FM- Abdullah Khayyat",
       "nameAr": "إذاعة عبدالله خياط",
       "streamUrl": "https://backup.qurango.net/radio/abdullah_khayyat",
       "streamFormat": "unknown",
@@ -791,7 +791,7 @@
     },
     {
       "id": 42,
-      "name": "Quran Radio — Abdullah Al-Juhani",
+      "name": "FM- Abdullah Al-Juhani",
       "nameAr": "إذاعة عبدالله عواد الجهني",
       "streamUrl": "https://backup.qurango.net/radio/abdullah_aljohany",
       "streamFormat": "unknown",
@@ -810,7 +810,7 @@
     },
     {
       "id": 43,
-      "name": "Quran Radio — Abdulrasheed Soufi (Khalaf)",
+      "name": "FM- Abdulrasheed Soufi (Khalaf)",
       "nameAr": "إذاعة عبدالرشيد صوفي",
       "streamUrl": "https://backup.qurango.net/radio/abdulrasheed_soufi_khalaf",
       "streamFormat": "unknown",
@@ -831,7 +831,7 @@
     },
     {
       "id": 44,
-      "name": "Quran Radio — Abdulrasheed Soufi (As-Susi)",
+      "name": "FM- Abdulrasheed Soufi (As-Susi)",
       "nameAr": "إذاعة عبدالرشيد صوفي",
       "streamUrl": "https://backup.qurango.net/radio/abdulrasheed_soufi_assosi",
       "streamFormat": "unknown",
@@ -852,7 +852,7 @@
     },
     {
       "id": 45,
-      "name": "Quran Radio — Abdulmohsin Al-Harthy",
+      "name": "FM- Abdulmohsin Al-Harthy",
       "nameAr": "إذاعة عبدالمحسن الحارثي",
       "streamUrl": "https://backup.qurango.net/radio/abdulmohsin_alharthy",
       "streamFormat": "unknown",
@@ -871,7 +871,7 @@
     },
     {
       "id": 46,
-      "name": "Quran Radio — Abdulmohsen Al-Qasim",
+      "name": "FM- Abdulmohsen Al-Qasim",
       "nameAr": "إذاعة عبدالمحسن القاسم",
       "streamUrl": "https://backup.qurango.net/radio/abdulmohsen_alqasim",
       "streamFormat": "unknown",
@@ -890,7 +890,7 @@
     },
     {
       "id": 47,
-      "name": "Quran Radio — Abdulmohsin Al-Obaikan",
+      "name": "FM- Abdulmohsin Al-Obaikan",
       "nameAr": "إذاعة عبدالمحسن العبيكان",
       "streamUrl": "https://backup.qurango.net/radio/abdulmohsin_alobaikan",
       "streamFormat": "unknown",
@@ -909,7 +909,7 @@
     },
     {
       "id": 48,
-      "name": "Quran Radio — Abdulhadi Kanakeri",
+      "name": "FM- Abdulhadi Kanakeri",
       "nameAr": "إذاعة عبدالهادي أحمد كناكري",
       "streamUrl": "https://backup.qurango.net/radio/abdulhadi_kanakeri",
       "streamFormat": "unknown",
@@ -928,7 +928,7 @@
     },
     {
       "id": 49,
-      "name": "Quran Radio — Abdulwadood Haneef",
+      "name": "FM- Abdulwadood Haneef",
       "nameAr": "إذاعة عبدالودود حنيف",
       "streamUrl": "https://backup.qurango.net/radio/abdulwadood_haneef",
       "streamFormat": "unknown",
@@ -947,7 +947,7 @@
     },
     {
       "id": 50,
-      "name": "Quran Radio — Ali Al-Hudhaifi",
+      "name": "FM- Ali Al-Hudhaifi",
       "nameAr": "إذاعة علي بن عبدالرحمن الحذيفي",
       "streamUrl": "https://backup.qurango.net/radio/ali_alhuthaifi",
       "streamFormat": "unknown",
@@ -966,7 +966,7 @@
     },
     {
       "id": 51,
-      "name": "Quran Radio — Ali Al-Hudhaifi (Qalun)",
+      "name": "FM- Ali Al-Hudhaifi (Qalun)",
       "nameAr": "إذاعة علي الحذيفي",
       "streamUrl": "https://backup.qurango.net/radio/ali_alhuthaifi_qalon",
       "streamFormat": "unknown",
@@ -987,7 +987,7 @@
     },
     {
       "id": 52,
-      "name": "Quran Radio — Ali Jaber",
+      "name": "FM- Ali Jaber",
       "nameAr": " إذاعة علي جابر",
       "streamUrl": "https://backup.qurango.net/radio/ali_jaber",
       "streamFormat": "unknown",
@@ -1006,7 +1006,7 @@
     },
     {
       "id": 53,
-      "name": "Quran Radio — Ali Hajjaj Al-Souasi",
+      "name": "FM- Ali Hajjaj Al-Souasi",
       "nameAr": " إذاعة علي حجاج السويسي",
       "streamUrl": "https://backup.qurango.net/radio/ali_hajjaj_alsouasi",
       "streamFormat": "unknown",
@@ -1025,7 +1025,7 @@
     },
     {
       "id": 54,
-      "name": "Quran Radio — Emad Zuhair Hafez",
+      "name": "FM- Emad Zuhair Hafez",
       "nameAr": " إذاعة عماد زهير حافظ",
       "streamUrl": "https://backup.qurango.net/radio/emad_hafez",
       "streamFormat": "unknown",
@@ -1044,7 +1044,7 @@
     },
     {
       "id": 55,
-      "name": "Quran Radio — Omar Al-Qazabri",
+      "name": "FM- Omar Al-Qazabri",
       "nameAr": " إذاعة عمر القزابري",
       "streamUrl": "https://backup.qurango.net/radio/omar_alqazabri",
       "streamFormat": "unknown",
@@ -1063,7 +1063,7 @@
     },
     {
       "id": 56,
-      "name": "Quran Radio — Fares Abbad",
+      "name": "FM- Fares Abbad",
       "nameAr": " إذاعة فارس عباد",
       "streamUrl": "https://backup.qurango.net/radio/fares_abbad",
       "streamFormat": "unknown",
@@ -1082,7 +1082,7 @@
     },
     {
       "id": 57,
-      "name": "Quran Radio — Nasser Al-Qatami",
+      "name": "FM- Nasser Al-Qatami",
       "nameAr": " إذاعة ناصر القطامي",
       "streamUrl": "https://backup.qurango.net/radio/nasser_alqatami",
       "streamFormat": "unknown",
@@ -1101,7 +1101,7 @@
     },
     {
       "id": 58,
-      "name": "Quran Radio — Nabil Al-Rifai",
+      "name": "FM- Nabil Al-Rifai",
       "nameAr": " إذاعة نبيل الرفاعي",
       "streamUrl": "https://backup.qurango.net/radio/nabil_al_rifay",
       "streamFormat": "unknown",
@@ -1120,7 +1120,7 @@
     },
     {
       "id": 59,
-      "name": "Quran Radio — Neamah Al-Hassan",
+      "name": "FM- Neamah Al-Hassan",
       "nameAr": " إذاعة نعمة الحسان",
       "streamUrl": "https://backup.qurango.net/radio/neamah_alhassan",
       "streamFormat": "unknown",
@@ -1139,7 +1139,7 @@
     },
     {
       "id": 60,
-      "name": "Quran Radio — Hani Al-Rifai",
+      "name": "FM- Hani Al-Rifai",
       "nameAr": " إذاعة هاني الرفاعي",
       "streamUrl": "https://backup.qurango.net/radio/hani_arrifai",
       "streamFormat": "unknown",
@@ -1158,7 +1158,7 @@
     },
     {
       "id": 61,
-      "name": "Quran Radio — Waleed Al-Naehi",
+      "name": "FM- Waleed Al-Naehi",
       "nameAr": " إذاعة وليد النائحي",
       "streamUrl": "https://backup.qurango.net/radio/waleed_alnaehi",
       "streamFormat": "unknown",
@@ -1177,7 +1177,7 @@
     },
     {
       "id": 62,
-      "name": "Quran Radio — Yasser Al-Dosari",
+      "name": "FM- Yasser Al-Dosari",
       "nameAr": " إذاعة ياسر الدوسري",
       "streamUrl": "https://backup.qurango.net/radio/yasser_aldosari",
       "streamFormat": "unknown",
@@ -1196,7 +1196,7 @@
     },
     {
       "id": 63,
-      "name": "Quran Radio — Yasser Al-Qurashi",
+      "name": "FM- Yasser Al-Qurashi",
       "nameAr": " إذاعة ياسر القرشي",
       "streamUrl": "https://backup.qurango.net/radio/yasser_alqurashi",
       "streamFormat": "unknown",
@@ -1215,7 +1215,7 @@
     },
     {
       "id": 64,
-      "name": "Quran Radio — Yasser Al-Mazrooei",
+      "name": "FM- Yasser Al-Mazrooei",
       "nameAr": " إذاعة ياسر المزروعي ",
       "streamUrl": "https://backup.qurango.net/radio/yasser_almazroyee",
       "streamFormat": "unknown",
@@ -1234,7 +1234,7 @@
     },
     {
       "id": 65,
-      "name": "Quran Radio — Yahya Hawwa",
+      "name": "FM- Yahya Hawwa",
       "nameAr": " إذاعة يحيى حوا",
       "streamUrl": "https://backup.qurango.net/radio/yahya_hawwa",
       "streamFormat": "unknown",
@@ -1253,7 +1253,7 @@
     },
     {
       "id": 66,
-      "name": "Quran Radio — Yousef Al-Shoaey",
+      "name": "FM- Yousef Al-Shoaey",
       "nameAr": " إذاعة يوسف الشويعي",
       "streamUrl": "https://backup.qurango.net/radio/yousef_alshoaey",
       "streamFormat": "unknown",
@@ -1272,7 +1272,7 @@
     },
     {
       "id": 67,
-      "name": "Quran Radio — Maher Al-Muaiqly",
+      "name": "FM- Maher Al-Muaiqly",
       "nameAr": " إذاعة ماهر المعيقلي",
       "streamUrl": "https://backup.qurango.net/radio/maher",
       "streamFormat": "unknown",
@@ -1291,7 +1291,7 @@
     },
     {
       "id": 68,
-      "name": "Quran Radio — Muhammad Al-Tablawi",
+      "name": "FM- Muhammad Al-Tablawi",
       "nameAr": " إذاعة محمد الطبلاوي",
       "streamUrl": "https://backup.qurango.net/radio/mohammad_altablaway",
       "streamFormat": "unknown",
@@ -1310,7 +1310,7 @@
     },
     {
       "id": 69,
-      "name": "Quran Radio — Mohammed Al-Luhaidan",
+      "name": "FM- Mohammed Al-Luhaidan",
       "nameAr": " إذاعة محمد اللحيدان",
       "streamUrl": "https://backup.qurango.net/radio/mohammed_allohaidan",
       "streamFormat": "unknown",
@@ -1329,7 +1329,7 @@
     },
     {
       "id": 70,
-      "name": "Quran Radio — Muhammad Ayyub",
+      "name": "FM- Muhammad Ayyub",
       "nameAr": " إذاعة محمد أيوب",
       "streamUrl": "https://backup.qurango.net/radio/mohammed_ayyub",
       "streamFormat": "unknown",
@@ -1348,7 +1348,7 @@
     },
     {
       "id": 71,
-      "name": "Quran Radio — Mohammad Saleh Alim Shah",
+      "name": "FM- Mohammad Saleh Alim Shah",
       "nameAr": " إذاعة محمد صالح عالم شاه",
       "streamUrl": "https://backup.qurango.net/radio/mohammad_saleh_alim_shah",
       "streamFormat": "unknown",
@@ -1367,7 +1367,7 @@
     },
     {
       "id": 72,
-      "name": "Quran Radio — Muhammad Jibreel",
+      "name": "FM- Muhammad Jibreel",
       "nameAr": " إذاعة محمد جبريل",
       "streamUrl": "https://backup.qurango.net/radio/mohammed_jibreel",
       "streamFormat": "unknown",
@@ -1386,7 +1386,7 @@
     },
     {
       "id": 73,
-      "name": "Quran Radio — Muhammad Siddiq Al-Minshawi",
+      "name": "FM- Muhammad Siddiq Al-Minshawi",
       "nameAr": " إذاعة محمد صديق المنشاوي",
       "streamUrl": "https://backup.qurango.net/radio/mohammed_siddiq_alminshawi",
       "streamFormat": "unknown",
@@ -1405,7 +1405,7 @@
     },
     {
       "id": 74,
-      "name": "Quran Radio — Muhammad Siddiq Al-Minshawi (Mujawwad)",
+      "name": "FM- Muhammad Siddiq Al-Minshawi (Mujawwad)",
       "nameAr": " إذاعة محمد صديق المنشاوي",
       "streamUrl": "https://backup.qurango.net/radio/mohammed_siddiq_alminshawi_mojawwad",
       "streamFormat": "unknown",
@@ -1425,7 +1425,7 @@
     },
     {
       "id": 75,
-      "name": "Quran Radio — Mohammad AbdulKareem",
+      "name": "FM- Mohammad AbdulKareem",
       "nameAr": " إذاعة محمد عبدالكريم",
       "streamUrl": "https://backup.qurango.net/radio/mohammad_abdullkarem",
       "streamFormat": "unknown",
@@ -1444,7 +1444,7 @@
     },
     {
       "id": 76,
-      "name": "Quran Radio — Mohammad Al-Abdullah (Al-Bazzi)",
+      "name": "FM- Mohammad Al-Abdullah (Al-Bazzi)",
       "nameAr": " إذاعة محمد عبدالحكيم سعيد العبدالله",
       "streamUrl": "https://backup.qurango.net/radio/mohammad_alabdullah_albizi",
       "streamFormat": "unknown",
@@ -1465,7 +1465,7 @@
     },
     {
       "id": 77,
-      "name": "Quran Radio — Mohammad Al-Abdullah (Ad-Duri)",
+      "name": "FM- Mohammad Al-Abdullah (Ad-Duri)",
       "nameAr": " إذاعة محمد عبدالحكيم سعيد العبدالله",
       "streamUrl": "https://backup.qurango.net/radio/mohammad_alabdullah_aldorai",
       "streamFormat": "unknown",
@@ -1486,7 +1486,7 @@
     },
     {
       "id": 78,
-      "name": "Quran Radio — Mahmoud Khalil Al-Hussary",
+      "name": "FM- Mahmoud Khalil Al-Hussary",
       "nameAr": " إذاعة محمود خليل الحصري",
       "streamUrl": "https://backup.qurango.net/radio/mahmoud_khalil_alhussary",
       "streamFormat": "unknown",
@@ -1505,7 +1505,7 @@
     },
     {
       "id": 79,
-      "name": "Quran Radio — Mahmoud Khalil Al-Hussary (Mujawwad)",
+      "name": "FM- Mahmoud Khalil Al-Hussary (Mujawwad)",
       "nameAr": " إذاعة محمود خليل الحصري",
       "streamUrl": "https://backup.qurango.net/radio/mahmoud_khalil_alhussary_mojawwad",
       "streamFormat": "unknown",
@@ -1525,7 +1525,7 @@
     },
     {
       "id": 80,
-      "name": "Quran Radio — Mahmoud Khalil Al-Hussary (Warsh)",
+      "name": "FM- Mahmoud Khalil Al-Hussary (Warsh)",
       "nameAr": " إذاعة محمود خليل الحصري",
       "streamUrl": "https://backup.qurango.net/radio/mahmoud_khalil_alhussary_warsh",
       "streamFormat": "unknown",
@@ -1546,7 +1546,7 @@
     },
     {
       "id": 81,
-      "name": "Quran Radio — Mahmoud Ali Al-Banna",
+      "name": "FM- Mahmoud Ali Al-Banna",
       "nameAr": " إذاعة محمود علي البنا",
       "streamUrl": "https://backup.qurango.net/radio/mahmoud_ali__albanna",
       "streamFormat": "unknown",
@@ -1565,7 +1565,7 @@
     },
     {
       "id": 82,
-      "name": "Quran Radio — Mahmoud Ali Al-Banna (Mujawwad)",
+      "name": "FM- Mahmoud Ali Al-Banna (Mujawwad)",
       "nameAr": " إذاعة محمود علي البنا",
       "streamUrl": "https://backup.qurango.net/radio/mahmoud_ali__albanna_mojawwad",
       "streamFormat": "unknown",
@@ -1585,7 +1585,7 @@
     },
     {
       "id": 83,
-      "name": "Quran Radio — Mishary Alafasy",
+      "name": "FM- Mishary Alafasy",
       "nameAr": " إذاعة مشاري العفاسي",
       "streamUrl": "https://backup.qurango.net/radio/mishary_alafasi",
       "streamFormat": "unknown",
@@ -1604,7 +1604,7 @@
     },
     {
       "id": 84,
-      "name": "Quran Radio — Mustafa Ismail",
+      "name": "FM- Mustafa Ismail",
       "nameAr": " إذاعة مصطفى إسماعيل",
       "streamUrl": "https://backup.qurango.net/radio/mustafa_ismail",
       "streamFormat": "unknown",
@@ -1623,7 +1623,7 @@
     },
     {
       "id": 85,
-      "name": "Quran Radio — Mustafa Al-Lahoni",
+      "name": "FM- Mustafa Al-Lahoni",
       "nameAr": " إذاعة مصطفى اللاهوني",
       "streamUrl": "https://backup.qurango.net/radio/mustafa_allahoni",
       "streamFormat": "unknown",
@@ -1642,7 +1642,7 @@
     },
     {
       "id": 86,
-      "name": "Quran Radio — Mustafa Raad Al-Azawy",
+      "name": "FM- Mustafa Raad Al-Azawy",
       "nameAr": " إذاعة مصطفى رعد العزاوي",
       "streamUrl": "https://backup.qurango.net/radio/mustafa_raad_alazawy",
       "streamFormat": "unknown",
@@ -1661,7 +1661,7 @@
     },
     {
       "id": 87,
-      "name": "Quran Radio — Muftah Al-Saltany (Ad-Duri ‘an Abi ‘Amr)",
+      "name": "FM- Muftah Al-Saltany (Ad-Duri ‘an Abi ‘Amr)",
       "nameAr": " إذاعة مفتاح السلطني",
       "streamUrl": "https://backup.qurango.net/radio/muftah_alsaltany_aldori_an_abi_amr ",
       "streamFormat": "unknown",
@@ -1682,7 +1682,7 @@
     },
     {
       "id": 88,
-      "name": "Quran Radio — Maher Shakhashero",
+      "name": "FM- Maher Shakhashero",
       "nameAr": " إذاعة ماهر شخاشيرو",
       "streamUrl": "https://backup.qurango.net/radio/maher_shakhashero",
       "streamFormat": "unknown",
@@ -1701,7 +1701,7 @@
     },
     {
       "id": 89,
-      "name": "Quran Radio — Mahmoud Al-Sheimy",
+      "name": "FM- Mahmoud Al-Sheimy",
       "nameAr": " إذاعة محمود الشيمي",
       "streamUrl": "https://backup.qurango.net/radio/mahmood_alsheimy",
       "streamFormat": "unknown",
@@ -1720,7 +1720,7 @@
     },
     {
       "id": 90,
-      "name": "Quran Radio — Khalid Al-Muhanna",
+      "name": "FM- Khalid Al-Muhanna",
       "nameAr": " إذاعة خالد المهنا",
       "streamUrl": "https://backup.qurango.net/radio/khalid_almohana",
       "streamFormat": "unknown",
@@ -1739,7 +1739,7 @@
     },
     {
       "id": 91,
-      "name": "Quran Radio — Adel Al-Kalbani",
+      "name": "FM- Adel Al-Kalbani",
       "nameAr": " إذاعة عادل الكلباني",
       "streamUrl": "https://backup.qurango.net/radio/adel_alkhalbany",
       "streamFormat": "unknown",
@@ -1758,7 +1758,7 @@
     },
     {
       "id": 92,
-      "name": "Quran Radio — Mousa Bilal",
+      "name": "FM- Mousa Bilal",
       "nameAr": " إذاعة موسى بلال",
       "streamUrl": "https://backup.qurango.net/radio/mousa_bilal",
       "streamFormat": "unknown",
@@ -1777,7 +1777,7 @@
     },
     {
       "id": 93,
-      "name": "Quran Radio — Hatem Fareed Al-Wa'er",
+      "name": "FM- Hatem Fareed Al-Wa'er",
       "nameAr": "حاتم فريد الواعر",
       "streamUrl": "https://backup.qurango.net/radio/hatem_fareed_alwaer",
       "streamFormat": "unknown",
@@ -1796,7 +1796,7 @@
     },
     {
       "id": 94,
-      "name": "Quran Radio — Mahmoud Al-Rifai",
+      "name": "FM- Mahmoud Al-Rifai",
       "nameAr": " إذاعة محمود الرفاعي",
       "streamUrl": "https://backup.qurango.net/radio/mahmood_al_rifai",
       "streamFormat": "unknown",
@@ -1815,7 +1815,7 @@
     },
     {
       "id": 95,
-      "name": "Quran Radio — Ibrahim Al-Dosari",
+      "name": "FM- Ibrahim Al-Dosari",
       "nameAr": " إذاعة ابراهيم الدوسري",
       "streamUrl": "https://backup.qurango.net/radio/ibrahim_aldosari",
       "streamFormat": "unknown",
@@ -1834,7 +1834,7 @@
     },
     {
       "id": 96,
-      "name": "Quran Radio — Muftah Al-Saltany (Ad-Durai)",
+      "name": "FM- Muftah Al-Saltany (Ad-Durai)",
       "nameAr": " إذاعة مفتاح السلطني",
       "streamUrl": "https://backup.qurango.net/radio/muftah_alsaltany_aldorai",
       "streamFormat": "unknown",
@@ -1855,7 +1855,7 @@
     },
     {
       "id": 97,
-      "name": "Quran Radio — Jamaan Al-Osaimi",
+      "name": "FM- Jamaan Al-Osaimi",
       "nameAr": " إذاعة جمعان العصيمي",
       "streamUrl": "https://backup.qurango.net/radio/jamaan_alosaimi",
       "streamFormat": "unknown",
@@ -1874,7 +1874,7 @@
     },
     {
       "id": 98,
-      "name": "Quran Radio — Muftah Al-Saltany",
+      "name": "FM- Muftah Al-Saltany",
       "nameAr": " إذاعة مفتاح السلطني",
       "streamUrl": "https://backup.qurango.net/radio/muftah_alsaltany",
       "streamFormat": "unknown",
@@ -1894,7 +1894,7 @@
     },
     {
       "id": 99,
-      "name": "Quran Radio — Yousef Bin Noah Ahmad",
+      "name": "FM- Yousef Bin Noah Ahmad",
       "nameAr": " إذاعة يوسف بن نوح أحمد",
       "streamUrl": "https://backup.qurango.net/radio/yousef_bin_noah_ahmad",
       "streamFormat": "unknown",
@@ -1913,7 +1913,7 @@
     },
     {
       "id": 100,
-      "name": "Quran Radio — Muftah Al-Saltany (Ibn Dhakwan ‘an Ibn ‘Amr)",
+      "name": "FM- Muftah Al-Saltany (Ibn Dhakwan ‘an Ibn ‘Amr)",
       "nameAr": " إذاعة مفتاح السلطني",
       "streamUrl": "https://backup.qurango.net/radio/muftah_alsaltany_ibn_thakwan_an_ibn_amr",
       "streamFormat": "unknown",
@@ -1934,7 +1934,7 @@
     },
     {
       "id": 101,
-      "name": "Quran Radio — Moeedh Al-Harthi",
+      "name": "FM- Moeedh Al-Harthi",
       "nameAr": " إذاعة معيض الحارثي",
       "streamUrl": "https://backup.qurango.net/radio/moeedh_alharthi",
       "streamFormat": "unknown",
@@ -1953,7 +1953,7 @@
     },
     {
       "id": 102,
-      "name": "Quran Radio — Mohammad Rashad Al-Shareef",
+      "name": "FM- Mohammad Rashad Al-Shareef",
       "nameAr": " إذاعة محمد رشاد الشريف",
       "streamUrl": "https://backup.qurango.net/radio/mohammad_rashad_alshareef",
       "streamFormat": "unknown",
@@ -1972,7 +1972,7 @@
     },
     {
       "id": 103,
-      "name": "Quran Radio — Ahmad Khader Al-Trabulsi",
+      "name": "FM- Ahmad Khader Al-Trabulsi",
       "nameAr": " إذاعة أحمد خضر الطرابلسي",
       "streamUrl": "https://backup.qurango.net/radio/ahmad_khader_altarabulsi",
       "streamFormat": "unknown",
@@ -1991,7 +1991,7 @@
     },
     {
       "id": 104,
-      "name": "Quran Radio — Ahmed Al-Trabulsi",
+      "name": "FM- Ahmed Al-Trabulsi",
       "nameAr": " إذاعة أحمد الطرابلسي",
       "streamUrl": "https://backup.qurango.net/radio/ahmed_altrabulsi",
       "streamFormat": "unknown",
@@ -2010,7 +2010,7 @@
     },
     {
       "id": 105,
-      "name": "Quran Radio — Abdullah Al-Kandari",
+      "name": "FM- Abdullah Al-Kandari",
       "nameAr": " إذاعة عبدالله الكندري",
       "streamUrl": "https://backup.qurango.net/radio/abdullah_alkandari",
       "streamFormat": "unknown",
@@ -2029,7 +2029,7 @@
     },
     {
       "id": 106,
-      "name": "Quran Radio — Ahmed Amer",
+      "name": "FM- Ahmed Amer",
       "nameAr": " إذاعة أحمد عامر",
       "streamUrl": "https://backup.qurango.net/radio/ahmed_amer",
       "streamFormat": "unknown",
@@ -2048,7 +2048,7 @@
     },
     {
       "id": 107,
-      "name": "Quran Radio — Mohammed Osman Khan",
+      "name": "FM- Mohammed Osman Khan",
       "nameAr": "إذاعة محمد عثمان خان",
       "streamUrl": "https://backup.qurango.net/radio/mohammed_osman_khan",
       "streamFormat": "unknown",
@@ -2067,7 +2067,7 @@
     },
     {
       "id": 108,
-      "name": "Quran Radio — Addokali Mohammad Al-Alim",
+      "name": "FM- Addokali Mohammad Al-Alim",
       "nameAr": " إذاعة الدوكالي محمد العالم",
       "streamUrl": "https://backup.qurango.net/radio/addokali_mohammad_alalim",
       "streamFormat": "unknown",
@@ -2086,7 +2086,7 @@
     },
     {
       "id": 109,
-      "name": "Quran Radio — Mohammad AbdulKareem (Al-Asbahani)",
+      "name": "FM- Mohammad AbdulKareem (Al-Asbahani)",
       "nameAr": " إذاعة محمد عبدالكريم",
       "streamUrl": "https://backup.qurango.net/radio/mohammad_abdullkarem_alasbahani",
       "streamFormat": "unknown",
@@ -2105,7 +2105,7 @@
     },
     {
       "id": 110,
-      "name": "Quran Radio — Al-Fateh Al-Zubair",
+      "name": "FM- Al-Fateh Al-Zubair",
       "nameAr": " إذاعة الفاتح محمد الزبير",
       "streamUrl": "https://backup.qurango.net/radio/alfateh_alzubair",
       "streamFormat": "unknown",
@@ -2124,7 +2124,7 @@
     },
     {
       "id": 111,
-      "name": "Quran Radio — Tareq Abdulghani Daawob",
+      "name": "FM- Tareq Abdulghani Daawob",
       "nameAr": " إذاعة طارق عبدالغني دعوب",
       "streamUrl": "https://backup.qurango.net/radio/tareq_abdulgani_daawob",
       "streamFormat": "unknown",
@@ -2143,7 +2143,7 @@
     },
     {
       "id": 112,
-      "name": "Quran Radio — Mixed Reciters (General)",
+      "name": "FM- Mixed Reciters (General)",
       "nameAr": "-الإذاعة العامة - اذاعة متنوعة لمختلف القراء",
       "streamUrl": "https://backup.qurango.net/radio/mix",
       "streamFormat": "unknown",
@@ -2163,7 +2163,7 @@
     },
     {
       "id": 113,
-      "name": "Quran Radio — Humble & Emotional Recitations",
+      "name": "FM- Humble & Emotional Recitations",
       "nameAr": "إذاعة -تلاوات خاشعة-",
       "streamUrl": "https://backup.qurango.net/radio/salma",
       "streamFormat": "unknown",
@@ -2203,7 +2203,7 @@
     },
     {
       "id": 115,
-      "name": "Quran Radio — Abdulrahman Al-Majed",
+      "name": "FM- Abdulrahman Al-Majed",
       "nameAr": " إذاعة عبدالرحمن الماجد",
       "streamUrl": "https://backup.qurango.net/radio/abdulrahman_almajed",
       "streamFormat": "unknown",
@@ -2281,7 +2281,7 @@
     },
     {
       "id": 119,
-      "name": "Quran Radio — Tafsir (Quran Explanation)",
+      "name": "FM- Tafsir (Quran Explanation)",
       "nameAr": "إذاعة --تفسير القران الكريم--",
       "streamUrl": "https://backup.qurango.net/radio/tafseer",
       "streamFormat": "unknown",
@@ -2300,7 +2300,7 @@
     },
     {
       "id": 120,
-      "name": "Quran Radio — Khalid Al-Jalil",
+      "name": "FM- Khalid Al-Jalil",
       "nameAr": "إذاعة خالد الجليل",
       "streamUrl": "https://backup.qurango.net/radio/khalid_aljileel",
       "streamFormat": "unknown",
@@ -2319,7 +2319,7 @@
     },
     {
       "id": 121,
-      "name": "Quran Radio — Nasser Al-Majed",
+      "name": "FM- Nasser Al-Majed",
       "nameAr": "إذاعة ناصر الماجد",
       "streamUrl": "https://backup.qurango.net/radio/nasser_almajed",
       "streamFormat": "unknown",
@@ -2338,7 +2338,7 @@
     },
     {
       "id": 122,
-      "name": "Quran Radio — Haitham Al-Jadani",
+      "name": "FM- Haitham Al-Jadani",
       "nameAr": "إذاعة هيثم الجدعاني",
       "streamUrl": "https://backup.qurango.net/radio/hitham_aljadani",
       "streamFormat": "unknown",
@@ -2357,7 +2357,7 @@
     },
     {
       "id": 123,
-      "name": "Quran Radio — Ahmad Khalil Shaheen",
+      "name": "FM- Ahmad Khalil Shaheen",
       "nameAr": "إذاعة أحمد خليل شاهين",
       "streamUrl": "https://backup.qurango.net/radio/ahmad_shaheen",
       "streamFormat": "unknown",
@@ -2376,7 +2376,7 @@
     },
     {
       "id": 124,
-      "name": "Quran Radio — Abdullah Al-Mousa",
+      "name": "FM- Abdullah Al-Mousa",
       "nameAr": "إذاعة عبدالله الموسى",
       "streamUrl": "https://backup.qurango.net/radio/abdullah_almousa",
       "streamFormat": "unknown",
@@ -2395,7 +2395,7 @@
     },
     {
       "id": 125,
-      "name": "Quran Radio — Abdullah Al-Khalaf",
+      "name": "FM- Abdullah Al-Khalaf",
       "nameAr": "إذاعة عبدالله الخلف",
       "streamUrl": "https://backup.qurango.net/radio/abdullah_alkhalaf",
       "streamFormat": "unknown",
@@ -2434,7 +2434,7 @@
     },
     {
       "id": 127,
-      "name": "Quran Radio — Majed Al-Zamel",
+      "name": "FM- Majed Al-Zamel",
       "nameAr": "إذاعة ماجد الزامل",
       "streamUrl": "https://backup.qurango.net/radio/majed_alzamel",
       "streamFormat": "unknown",
@@ -2453,7 +2453,7 @@
     },
     {
       "id": 128,
-      "name": "Quran Radio — Bandar Balilah",
+      "name": "FM- Bandar Balilah",
       "nameAr": "إذاعة بندر بليلة",
       "streamUrl": "https://backup.qurango.net/radio/bandar_balilah",
       "streamFormat": "unknown",
@@ -2472,7 +2472,7 @@
     },
     {
       "id": 129,
-      "name": "Quran Radio — Nasser Al-Osfor",
+      "name": "FM- Nasser Al-Osfor",
       "nameAr": "إذاعة ناصر العصفور",
       "streamUrl": "https://backup.qurango.net/radio/nasser_alosfor",
       "streamFormat": "unknown",
@@ -2491,7 +2491,7 @@
     },
     {
       "id": 130,
-      "name": "Quran Radio — Muhammad Ayyub (Special Recitation)",
+      "name": "FM- Muhammad Ayyub (Special Recitation)",
       "nameAr": "إذاعة محمد أيوب - قراءة مميزة-",
       "streamUrl": "https://backup.qurango.net/radio/ayyoub2",
       "streamFormat": "unknown",
@@ -2511,7 +2511,7 @@
     },
     {
       "id": 131,
-      "name": "Quran Radio — Ahmad Deban",
+      "name": "FM- Ahmad Deban",
       "nameAr": "إذاعة أحمد ديبان",
       "streamUrl": "https://backup.qurango.net/radio/ahmad_deban",
       "streamFormat": "unknown",
@@ -2530,7 +2530,7 @@
     },
     {
       "id": 132,
-      "name": "Quran Radio — Muhammad Abu Sneineh",
+      "name": "FM- Muhammad Abu Sneineh",
       "nameAr": "أذاعة محمد أبوسنينة",
       "streamUrl": "https://backup.qurango.net/radio/sneineh",
       "streamFormat": "unknown",
@@ -2549,7 +2549,7 @@
     },
     {
       "id": 133,
-      "name": "Quran Radio — Muhammad Al-Amin Qeniwa",
+      "name": "FM- Muhammad Al-Amin Qeniwa",
       "nameAr": "إذاعة محمد الأمين قنيوة",
       "streamUrl": "https://backup.qurango.net/radio/qeniwa",
       "streamFormat": "unknown",
@@ -2568,7 +2568,7 @@
     },
     {
       "id": 134,
-      "name": "Quran Radio — Abdulrahman Al-Shahhat",
+      "name": "FM- Abdulrahman Al-Shahhat",
       "nameAr": "إذاعة عبدالرحمن الشحات",
       "streamUrl": "https://backup.qurango.net/radio/a_alshahhat",
       "streamFormat": "unknown",
@@ -2587,7 +2587,7 @@
     },
     {
       "id": 135,
-      "name": "Quran Radio — Abdulaziz Suheim",
+      "name": "FM- Abdulaziz Suheim",
       "nameAr": "عبدالعزيز سحيم",
       "streamUrl": "https://backup.qurango.net/radio/a_sheim",
       "streamFormat": "unknown",
@@ -2645,7 +2645,7 @@
     },
     {
       "id": 138,
-      "name": "Quran Radio — The Concise Tafsir (Mukhtasar)",
+      "name": "FM- The Concise Tafsir (Mukhtasar)",
       "nameAr": "المختصر في تفسير القرآن الكريم",
       "streamUrl": "https://backup.qurango.net/radio/mukhtasartafsir",
       "streamFormat": "unknown",
@@ -2780,7 +2780,7 @@
     },
     {
       "id": 145,
-      "name": "Quran Radio — Saleh Al-Habdan",
+      "name": "FM- Saleh Al-Habdan",
       "nameAr": "صالح الهبدان",
       "streamUrl": "https://backup.qurango.net/radio/saleh_alhabdan",
       "streamFormat": "unknown",
@@ -3409,7 +3409,7 @@
     },
     {
       "id": 177,
-      "name": "Quran Radio — Abdullah Al-Bu'ayjan",
+      "name": "FM- Abdullah Al-Bu'ayjan",
       "nameAr": "عبدالله البعيجان",
       "streamUrl": "https://backup.qurango.net/radio/buajan",
       "streamFormat": "unknown",
@@ -3428,7 +3428,7 @@
     },
     {
       "id": 178,
-      "name": "Quran Radio — Ahmad Talib Bin Humaid",
+      "name": "FM- Ahmad Talib Bin Humaid",
       "nameAr": "أحمد طالب بن حميد",
       "streamUrl": "https://backup.qurango.net/radio/a_binhameed",
       "streamFormat": "unknown",
@@ -3466,7 +3466,7 @@
     },
     {
       "id": 180,
-      "name": "Quran Radio — Badr Al-Turki",
+      "name": "FM- Badr Al-Turki",
       "nameAr": "بدر التركي",
       "streamUrl": "https://backup.qurango.net/radio/bader",
       "streamFormat": "unknown",
@@ -3485,7 +3485,7 @@
     },
     {
       "id": 181,
-      "name": "Quran Radio — Hazza Al-Balushi",
+      "name": "FM- Hazza Al-Balushi",
       "nameAr": "هزاع البلوشي",
       "streamUrl": "https://backup.qurango.net/radio/hazza",
       "streamFormat": "unknown",
@@ -3521,7 +3521,7 @@
       "frequency": "FM 96.182"
     },
     {
-      "name": "Quran Radio — Sayed Ramadan",
+      "name": "FM- Sayed Ramadan",
       "nameAr": "إذاعة سيد رمضان",
       "description": "Listen to Quran recitation by Sayed Ramadan with a calm, steady delivery perfect for daily listening and spiritual focus.",
       "country": "Egypt",
@@ -3540,7 +3540,7 @@
       "frequency": "FM 96.183"
     },
     {
-      "name": "Quran Radio — Sherzad Abdul Rahman Taher",
+      "name": "FM- Sherzad Abdul Rahman Taher",
       "nameAr": "إذاعة شيرزاد عبدالرحمن طاهر",
       "description": "Stream Quran recitation by Sherzad Abdul Rahman Taher in clear audio for peaceful listening and daily devotion.",
       "country": "Iraq",
@@ -3559,7 +3559,7 @@
       "frequency": "FM 96.184"
     },
     {
-      "name": "Quran Radio — Saber Abdul Hakam",
+      "name": "FM- Saber Abdul Hakam",
       "nameAr": "إذاعة صابر عبدالحكم",
       "description": "Enjoy Quran recitation by Saber Abdul Hakam with a gentle, reverent style ideal for reflection and worship.",
       "country": "Egypt",
@@ -3578,7 +3578,7 @@
       "frequency": "FM 96.185"
     },
     {
-      "name": "Quran Radio — Saleh Al-Sahood",
+      "name": "FM- Saleh Al-Sahood",
       "nameAr": "إذاعة صالح الصهود",
       "description": "Stream Quran recitation by Saleh Al-Sahood in high-quality audio for daily listening, calm, and spiritual focus.",
       "country": "Saudi Arabia",
@@ -3597,7 +3597,7 @@
       "frequency": "FM 96.186"
     },
     {
-      "name": "Quran Radio — Saleh Al-Habdan",
+      "name": "FM- Saleh Al-Habdan",
       "nameAr": "إذاعة صالح الهبدان",
       "description": "Listen to Quran recitation by Saleh Al-Habdan with a peaceful delivery, perfect for reflection and daily worship.",
       "country": "Saudi Arabia",
@@ -3616,7 +3616,7 @@
       "frequency": "FM 96.187"
     },
     {
-      "name": "Quran Radio — Saleh Al-Fawzan",
+      "name": "FM- Saleh Al-Fawzan",
       "nameAr": "إذاعة صالح الفوزان",
       "description": "Stream Quran recitation by Saleh Al-Fawzan in continuous audio for spiritual focus and daily remembrance.",
       "country": "Saudi Arabia",
@@ -3635,7 +3635,7 @@
       "frequency": "FM 96.188"
     },
     {
-      "name": "Quran Radio — Tariq Abdul Ghani Daob",
+      "name": "FM- Tariq Abdul Ghani Daob",
       "nameAr": "إذاعة طارق عبدالغني دعوب",
       "description": "Listen to Quran recitation by Tariq Abdul Ghani Daob in smooth streaming audio for daily worship and calm.",
       "country": "Libya",
@@ -3654,7 +3654,7 @@
       "frequency": "FM 96.189"
     },
     {
-      "name": "Quran Radio — Adel Al-Kalbani",
+      "name": "FM- Adel Al-Kalbani",
       "nameAr": "إذاعة عادل الكلباني",
       "description": "Stream Quran recitation by Adel Al-Kalbani with a strong, resonant voice perfect for daily listening and reflection.",
       "country": "Saudi Arabia",
@@ -3673,7 +3673,7 @@
       "frequency": "FM 96.190"
     },
     {
-      "name": "Quran Radio — Adel Rayan",
+      "name": "FM- Adel Rayan",
       "nameAr": "إذاعة عادل ريان",
       "description": "Enjoy Quran recitation by Adel Rayan with a peaceful, heartfelt delivery ideal for worship and daily devotion.",
       "country": "Saudi Arabia",
@@ -3692,7 +3692,7 @@
       "frequency": "FM 96.191"
     },
     {
-      "name": "Quran Radio — Abdul Bari Al-Thubaity",
+      "name": "FM- Abdul Bari Al-Thubaity",
       "nameAr": "إذاعة عبدالباري الثبيتي",
       "description": "Stream Quran recitation by Abdul Bari Al-Thubaity in clear audio for spiritual focus and daily remembrance.",
       "country": "Saudi Arabia",

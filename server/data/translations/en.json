@@ -1,11 +1,11 @@
 {
   "stations": {
     "1": {
-      "name": "Quran Radio — Abu Bakr Al-Shatri",
+      "name": "FM- Abu Bakr Al-Shatri",
       "description": "Stream beautiful Quran recitation by Sheikh Abu Bakr Al-Shatri with a calm, heartfelt tone ideal for prayer and listening."
     },
     "2": {
-      "name": "Quran Radio — Ahmad Khader Al-Trabulsi",
+      "name": "FM- Ahmad Khader Al-Trabulsi",
       "description": "Stream Quran recitation by Ahmad Khader Al-Trabulsi with clear tajwid and a soothing cadence for daily listening."
     }
   }
